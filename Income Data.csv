@@ -1,0 +1,433 @@
+Random_Income,Date,Income Source
+498,01/01/2018,Salary
+456,02/01/2018,Freelancing
+289,03/01/2018,Business
+612,04/01/2018,Investments
+333,05/01/2018,Pension
+587,06/01/2018,Rental Income
+210,08/01/2018,Online Sales
+695,09/01/2018,Consulting
+411,10/01/2018,Tutoring
+528,11/01/2018,YouTube Revenue
+376,12/01/2018,Salary
+654,13/01/2018,Freelancing
+222,15/01/2018,Business
+599,16/01/2018,Investments
+480,19/01/2018,Pension
+315,20/01/2018,Rental Income
+678,22/01/2018,Online Sales
+250,23/01/2018,Consulting
+543,24/01/2018,Tutoring
+391,25/01/2018,YouTube Revenue
+627,29/01/2018,Salary
+298,01/02/2018,Freelancing
+571,02/02/2018,Business
+439,03/02/2018,Investments
+355,04/02/2018,Pension
+682,05/02/2018,Rental Income
+237,06/02/2018,Online Sales
+516,07/02/2018,Consulting
+465,09/02/2018,Tutoring
+302,10/02/2018,YouTube Revenue
+669,11/02/2018,Salary
+275,12/02/2018,Freelancing
+550,14/02/2018,Business
+403,15/02/2018,Investments
+635,16/02/2018,Pension
+321,20/02/2018,Rental Income
+594,21/02/2018,Online Sales
+499,22/02/2018,Consulting
+368,26/02/2018,Tutoring
+647,27/02/2018,YouTube Revenue
+218,01/03/2018,Salary
+532,02/03/2018,Freelancing
+471,03/03/2018,Business
+310,04/03/2018,Investments
+675,05/03/2018,Pension
+263,07/03/2018,Rental Income
+561,08/03/2018,Online Sales
+415,09/03/2018,Consulting
+620,12/03/2018,Tutoring
+339,13/03/2018,YouTube Revenue
+580,14/03/2018,Salary
+488,15/03/2018,Freelancing
+351,16/03/2018,Business
+690,17/03/2018,Investments
+229,19/03/2018,Pension
+505,20/03/2018,Rental Income
+450,22/03/2018,Online Sales
+307,23/03/2018,Consulting
+662,26/03/2018,Tutoring
+282,28/03/2018,YouTube Revenue
+540,29/03/2018,Salary
+397,30/03/2018,Freelancing
+631,31/03/2018,Business
+318,01/04/2018,Investments
+577,02/04/2018,Pension
+492,03/04/2018,Rental Income
+371,04/04/2018,Online Sales
+658,06/04/2018,Consulting
+205,08/04/2018,Tutoring
+520,09/04/2018,YouTube Revenue
+460,11/04/2018,Salary
+300,12/04/2018,Freelancing
+670,13/04/2018,Business
+270,14/04/2018,Investments
+555,16/04/2018,Pension
+410,18/04/2018,Rental Income
+625,20/04/2018,Online Sales
+330,21/04/2018,Consulting
+590,22/04/2018,Tutoring
+485,23/04/2018,YouTube Revenue
+360,24/04/2018,Salary
+650,25/04/2018,Freelancing
+215,26/04/2018,Business
+525,27/04/2018,Investments
+475,28/04/2018,Pension
+305,29/04/2018,Rental Income
+665,30/04/2018,Online Sales
+278,01/05/2018,Consulting
+545,02/05/2018,Tutoring
+400,03/05/2018,YouTube Revenue
+630,04/05/2018,Salary
+325,05/05/2018,Freelancing
+585,06/05/2018,Business
+490,09/05/2018,Investments
+365,10/05/2018,Pension
+645,11/05/2018,Rental Income
+220,12/05/2018,Online Sales
+530,14/05/2018,Consulting
+470,15/05/2018,Tutoring
+312,17/05/2018,YouTube Revenue
+672,18/05/2018,Salary
+260,19/05/2018,Freelancing
+565,21/05/2018,Business
+412,22/05/2018,Investments
+622,24/05/2018,Pension
+335,25/05/2018,Rental Income
+582,28/05/2018,Online Sales
+480,29/05/2018,Consulting
+358,01/06/2018,Tutoring
+685,02/06/2018,YouTube Revenue
+230,03/06/2018,Salary
+510,04/06/2018,Freelancing
+455,06/06/2018,Business
+308,08/06/2018,Investments
+667,09/06/2018,Pension
+272,10/06/2018,Rental Income
+552,12/06/2018,Online Sales
+405,14/06/2018,Consulting
+633,15/06/2018,Tutoring
+320,16/06/2018,YouTube Revenue
+592,18/06/2018,Salary
+495,19/06/2018,Freelancing
+363,20/06/2018,Business
+648,21/06/2018,Investments
+212,22/06/2018,Pension
+522,23/06/2018,Rental Income
+462,25/06/2018,Online Sales
+303,26/06/2018,Consulting
+677,27/06/2018,Tutoring
+265,28/06/2018,YouTube Revenue
+558,01/07/2018,Salary
+418,02/07/2018,Freelancing
+618,04/07/2018,Business
+337,05/07/2018,Investments
+589,06/07/2018,Pension
+482,08/07/2018,Rental Income
+353,09/07/2018,Online Sales
+693,10/07/2018,Consulting
+225,11/07/2018,Tutoring
+508,14/07/2018,YouTube Revenue
+458,15/07/2018,Salary
+301,17/07/2018,Freelancing
+660,18/07/2018,Business
+285,20/07/2018,Investments
+548,21/07/2018,Pension
+395,23/07/2018,Rental Income
+638,24/07/2018,Online Sales
+315,25/07/2018,Consulting
+575,26/07/2018,Tutoring
+497,28/07/2018,YouTube Revenue
+373,30/07/2018,Salary
+655,31/07/2018,Freelancing
+208,01/08/2018,Business
+518,02/08/2018,Investments
+468,03/08/2018,Pension
+309,04/08/2018,Rental Income
+673,06/08/2018,Online Sales
+268,09/08/2018,Consulting
+553,10/08/2018,Tutoring
+408,11/08/2018,YouTube Revenue
+628,15/08/2018,Salary
+332,16/08/2018,Freelancing
+584,17/08/2018,Business
+487,18/08/2018,Investments
+356,20/08/2018,Pension
+688,21/08/2018,Rental Income
+235,22/08/2018,Online Sales
+513,24/08/2018,Consulting
+463,27/08/2018,Tutoring
+306,30/08/2018,YouTube Revenue
+664,31/08/2018,Salary
+279,01/09/2018,Freelancing
+542,02/09/2018,Business
+393,04/09/2018,Investments
+636,07/09/2018,Pension
+317,09/09/2018,Rental Income
+579,11/09/2018,Online Sales
+494,12/09/2018,Consulting
+370,13/09/2018,Tutoring
+652,14/09/2018,YouTube Revenue
+210,17/09/2018,Salary
+527,18/09/2018,Freelancing
+467,19/09/2018,Business
+304,20/09/2018,Investments
+679,22/09/2018,Pension
+262,25/09/2018,Rental Income
+563,26/09/2018,Online Sales
+416,27/09/2018,Consulting
+621,28/09/2018,Tutoring
+338,29/09/2018,YouTube Revenue
+581,01/10/2018,Salary
+489,02/10/2018,Freelancing
+350,04/10/2018,Business
+698,06/10/2018,Investments
+227,08/10/2018,Pension
+502,09/10/2018,Rental Income
+452,10/10/2018,Online Sales
+302,11/10/2018,Consulting
+666,12/10/2018,Tutoring
+288,16/10/2018,YouTube Revenue
+541,17/10/2018,Salary
+399,18/10/2018,Freelancing
+632,21/10/2018,Business
+319,22/10/2018,Investments
+576,23/10/2018,Pension
+491,25/10/2018,Rental Income
+372,26/10/2018,Online Sales
+657,27/10/2018,Consulting
+202,28/10/2018,Tutoring
+523,31/10/2018,YouTube Revenue
+463,01/11/2018,Salary
+307,02/11/2018,Freelancing
+671,03/11/2018,Business
+269,04/11/2018,Investments
+556,05/11/2018,Pension
+409,06/11/2018,Rental Income
+626,08/11/2018,Online Sales
+331,09/11/2018,Consulting
+591,10/11/2018,Tutoring
+486,12/11/2018,YouTube Revenue
+361,13/11/2018,Salary
+649,14/11/2018,Freelancing
+217,16/11/2018,Business
+537,17/11/2018,Investments
+477,19/11/2018,Pension
+306,20/11/2018,Rental Income
+663,21/11/2018,Online Sales
+277,23/11/2018,Consulting
+547,26/11/2018,Tutoring
+402,27/11/2018,YouTube Revenue
+634,29/11/2018,Salary
+322,30/11/2018,Freelancing
+583,01/12/2018,Business
+483,03/12/2018,Investments
+359,04/12/2018,Pension
+681,06/12/2018,Rental Income
+239,07/12/2018,Online Sales
+511,08/12/2018,Consulting
+451,09/12/2018,Tutoring
+309,11/12/2018,YouTube Revenue
+668,12/12/2018,Salary
+273,13/12/2018,Freelancing
+551,14/12/2018,Business
+406,17/12/2018,Investments
+637,18/12/2018,Pension
+323,19/12/2018,Rental Income
+597,20/12/2018,Online Sales
+493,21/12/2018,Consulting
+369,22/12/2018,Tutoring
+642,23/12/2018,YouTube Revenue
+219,24/12/2018,Salary
+539,26/12/2018,Freelancing
+479,28/12/2018,Business
+300,29/12/2018,Investments
+674,01/01/2019,Pension
+266,02/01/2019,Rental Income
+559,03/01/2019,Online Sales
+419,04/01/2019,Consulting
+619,05/01/2019,Tutoring
+336,08/01/2019,YouTube Revenue
+588,09/01/2019,Salary
+481,10/01/2019,Freelancing
+354,14/01/2019,Business
+691,15/01/2019,Investments
+228,16/01/2019,Pension
+503,18/01/2019,Rental Income
+453,21/01/2019,Online Sales
+304,22/01/2019,Consulting
+661,24/01/2019,Tutoring
+281,25/01/2019,YouTube Revenue
+549,31/01/2019,Salary
+396,01/02/2019,Freelancing
+639,04/02/2019,Business
+316,05/02/2019,Investments
+574,07/02/2019,Pension
+496,08/02/2019,Rental Income
+374,09/02/2019,Online Sales
+653,11/02/2019,Consulting
+207,12/02/2019,Tutoring
+521,13/02/2019,YouTube Revenue
+461,15/02/2019,Salary
+305,16/02/2019,Freelancing
+676,19/02/2019,Business
+264,20/02/2019,Investments
+560,21/02/2019,Pension
+413,25/02/2019,Rental Income
+623,27/02/2019,Online Sales
+334,28/02/2019,Consulting
+586,01/03/2019,Tutoring
+484,04/03/2019,YouTube Revenue
+357,05/03/2019,Salary
+687,06/03/2019,Freelancing
+233,08/03/2019,Business
+517,09/03/2019,Investments
+467,12/03/2019,Pension
+302,13/03/2019,Rental Income
+665,14/03/2019,Online Sales
+276,15/03/2019,Consulting
+546,18/03/2019,Tutoring
+401,19/03/2019,YouTube Revenue
+630,20/03/2019,Salary
+324,22/03/2019,Freelancing
+580,23/03/2019,Business
+489,25/03/2019,Investments
+362,26/03/2019,Pension
+646,27/03/2019,Rental Income
+214,29/03/2019,Online Sales
+534,30/03/2019,Consulting
+474,31/03/2019,Tutoring
+308,01/04/2019,YouTube Revenue
+678,02/04/2019,Salary
+267,04/04/2019,Freelancing
+557,06/04/2019,Business
+417,08/04/2019,Investments
+617,09/04/2019,Pension
+333,10/04/2019,Rental Income
+593,12/04/2019,Online Sales
+487,13/04/2019,Consulting
+352,15/04/2019,Tutoring
+692,16/04/2019,YouTube Revenue
+226,18/04/2019,Salary
+506,19/04/2019,Freelancing
+456,22/04/2019,Business
+303,23/04/2019,Investments
+669,25/04/2019,Pension
+283,26/04/2019,Rental Income
+543,27/04/2019,Online Sales
+398,29/04/2019,Consulting
+633,30/04/2019,Tutoring
+314,01/05/2019,YouTube Revenue
+578,02/05/2019,Salary
+498,03/05/2019,Freelancing
+375,04/05/2019,Business
+651,06/05/2019,Investments
+209,07/05/2019,Pension
+529,09/05/2019,Rental Income
+469,10/05/2019,Online Sales
+301,13/05/2019,Consulting
+672,14/05/2019,Tutoring
+261,15/05/2019,YouTube Revenue
+562,17/05/2019,Salary
+414,20/05/2019,Freelancing
+624,24/05/2019,Business
+331,25/05/2019,Investments
+595,27/05/2019,Pension
+483,28/05/2019,Rental Income
+355,30/05/2019,Online Sales
+689,01/06/2019,Consulting
+231,03/06/2019,Tutoring
+519,04/06/2019,YouTube Revenue
+459,05/06/2019,Salary
+300,06/06/2019,Freelancing
+664,07/06/2019,Business
+286,09/06/2019,Investments
+544,12/06/2019,Pension
+394,13/06/2019,Rental Income
+636,14/06/2019,Online Sales
+317,15/06/2019,Consulting
+573,17/06/2019,Tutoring
+499,18/06/2019,YouTube Revenue
+371,19/06/2019,Salary
+656,20/06/2019,Freelancing
+206,21/06/2019,Business
+524,24/06/2019,Investments
+464,28/06/2019,Pension
+306,30/06/2019,Rental Income
+679,01/07/2019,Online Sales
+263,02/07/2019,Consulting
+561,04/07/2019,Tutoring
+411,05/07/2019,YouTube Revenue
+627,06/07/2019,Salary
+338,07/07/2019,Freelancing
+582,08/07/2019,Business
+678,09/07/2019,Investments
+563,10/07/2019,Pension
+736,15/07/2019,Rental Income
+534,16/07/2019,Online Sales
+645,17/07/2019,Consulting
+534,18/07/2019,Tutoring
+453,19/07/2019,YouTube Revenue
+263,22/07/2019,Salary
+456,23/07/2019,Freelancing
+674,24/07/2019,Business
+700,27/07/2019,Investments
+566,28/07/2019,Pension
+564,29/07/2019,Rental Income
+453,30/07/2019,Online Sales
+423,01/08/2019,Consulting
+324,02/08/2019,Tutoring
+456,03/08/2019,YouTube Revenue
+699,04/08/2019,Salary
+353,05/08/2019,Freelancing
+634,06/08/2019,Business
+354,08/08/2019,Investments
+456,09/08/2019,Pension
+289,12/08/2019,Rental Income
+612,14/08/2019,Online Sales
+333,15/08/2019,Consulting
+587,16/08/2019,Tutoring
+210,17/08/2019,YouTube Revenue
+695,19/08/2019,Salary
+411,20/08/2019,Freelancing
+528,21/08/2019,Business
+376,23/08/2019,Investments
+654,25/08/2019,Pension
+222,26/08/2019,Rental Income
+599,29/08/2019,Online Sales
+480,30/08/2019,Consulting
+315,31/08/2019,Tutoring
+678,01/09/2019,YouTube Revenue
+250,03/09/2019,Salary
+543,04/09/2019,Freelancing
+391,05/09/2019,Business
+627,06/09/2019,Investments
+298,07/09/2019,Pension
+571,08/09/2019,Rental Income
+439,09/09/2019,Online Sales
+355,11/09/2019,Consulting
+682,12/09/2019,Tutoring
+237,13/09/2019,YouTube Revenue
+516,14/09/2019,Salary
+465,15/09/2019,Freelancing
+302,16/09/2019,Business
+669,17/09/2019,Investments
+275,18/09/2019,Pension
+550,19/09/2019,Rental Income
+403,20/09/2019,Online Sales
+635,22/09/2019,Consulting
+321,23/09/2019,Tutoring
+594,27/09/2019,YouTube Revenue
+499,28/09/2019,Salary
+368,30/09/2019,Freelancing

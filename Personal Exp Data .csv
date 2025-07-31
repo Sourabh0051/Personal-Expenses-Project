@@ -1,0 +1,807 @@
+Date,Description,Expenses,Transaction Type,Category,Account,Month Name,Income_Source,Day Name
+22/01/2018 0:00,Credit Card Payment,555,debit,Credit Card Payment,Checking,January,Online Sales,Monday
+23/01/2018 0:00,Credit Card Payment,310,debit,Credit Card Payment,Checking,January,Consulting,Tuesday
+07/02/2018 0:00,Credit Card Payment,154,debit,Credit Card Payment,Checking,February,Consulting,Wednesday
+26/02/2018 0:00,Credit Card Payment,765,debit,Credit Card Payment,Checking,February,Tutoring,Monday
+27/02/2018 0:00,Credit Card Payment,156,debit,Credit Card Payment,Checking,February,YouTube Revenue,Tuesday
+05/03/2018 0:00,Credit Card Payment,762,debit,Credit Card Payment,Checking,March,Adsense,Monday
+23/03/2018 0:00,Credit Card Payment,560,debit,Credit Card Payment,Checking,March,Consulting,Friday
+02/04/2018 0:00,Credit Card Payment,817,debit,Credit Card Payment,Checking,April,Adsense,Monday
+04/04/2018 0:00,Credit Card Payment,363,debit,Credit Card Payment,Checking,April,Online Sales,Wednesday
+26/04/2018 0:00,Credit Card Payment,1217,debit,Credit Card Payment,Checking,April,Business,Thursday
+27/04/2018 0:00,Credit Card Payment,770,debit,Credit Card Payment,Checking,April,Investments,Friday
+09/05/2018 0:00,Credit Card Payment,601,debit,Credit Card Payment,Checking,May,Investments,Wednesday
+22/05/2018 0:00,Credit Card Payment,283,debit,Credit Card Payment,Checking,May,Investments,Tuesday
+04/06/2018 0:00,Credit Card Payment,235,debit,Credit Card Payment,Checking,June,Freelancing,Monday
+14/06/2018 0:00,Credit Card Payment,283,debit,Credit Card Payment,Checking,June,Consulting,Thursday
+21/06/2018 0:00,Credit Card Payment,89,debit,Credit Card Payment,Checking,June,Investments,Thursday
+25/06/2018 0:00,Credit Card Payment,943,debit,Credit Card Payment,Checking,June,Online Sales,Monday
+09/07/2018 0:00,Credit Card Payment,260,debit,Credit Card Payment,Checking,July,Online Sales,Monday
+10/07/2018 0:00,Credit Card Payment,242,debit,Credit Card Payment,Checking,July,Consulting,Tuesday
+20/07/2018 0:00,Credit Card Payment,103,debit,Credit Card Payment,Checking,July,Investments,Friday
+23/07/2018 0:00,Credit Card Payment,61,debit,Credit Card Payment,Checking,July,Rental Income,Monday
+16/08/2018 0:00,Credit Card Payment,270,debit,Credit Card Payment,Checking,August,Freelancing,Thursday
+21/08/2018 0:00,Credit Card Payment,100,debit,Credit Card Payment,Checking,August,Rental Income,Tuesday
+22/08/2018 0:00,Credit Card Payment,34,debit,Credit Card Payment,Checking,August,Online Sales,Wednesday
+04/09/2018 0:00,Credit Card Payment,687,debit,Credit Card Payment,Checking,September,Investments,Tuesday
+28/09/2018 0:00,Credit Card Payment,285,debit,Credit Card Payment,Checking,September,Tutoring,Friday
+01/10/2018 0:00,Credit Card Payment,128,debit,Credit Card Payment,Checking,October,Salary,Monday
+02/10/2018 0:00,Credit Card Payment,124,debit,Credit Card Payment,Checking,October,Freelancing,Tuesday
+22/10/2018 0:00,Credit Card Payment,354,debit,Credit Card Payment,Checking,October,Investments,Monday
+02/11/2018 0:00,Credit Card Payment,263,debit,Credit Card Payment,Checking,November,Freelancing,Friday
+30/11/2018 0:00,Credit Card Payment,583,debit,Credit Card Payment,Checking,November,Freelancing,Friday
+18/12/2018 0:00,Credit Card Payment,311,debit,Credit Card Payment,Checking,December,Adsense,Tuesday
+21/12/2018 0:00,Credit Card Payment,464,debit,Credit Card Payment,Checking,December,Consulting,Friday
+02/01/2019 0:00,Credit Card Payment,500,debit,Credit Card Payment,Checking,January,Rental Income,Wednesday
+09/01/2019 0:00,Credit Card Payment,282,debit,Credit Card Payment,Checking,January,Salary,Wednesday
+09/01/2019 0:00,Credit Card Payment,491,debit,Credit Card Payment,Checking,January,Salary,Wednesday
+22/01/2019 0:00,Credit Card Payment,278,debit,Credit Card Payment,Checking,January,Consulting,Tuesday
+31/01/2019 0:00,Credit Card Payment,1900,debit,Credit Card Payment,Checking,January,Salary,Thursday
+11/02/2019 0:00,Credit Card Payment,134,debit,Credit Card Payment,Checking,February,Consulting,Monday
+15/02/2019 0:00,Credit Card Payment,207,debit,Credit Card Payment,Checking,February,Salary,Friday
+19/02/2019 0:00,Credit Card Payment,575,debit,Credit Card Payment,Checking,February,Business,Tuesday
+21/02/2019 0:00,Credit Card Payment,293,debit,Credit Card Payment,Checking,February,Adsense,Thursday
+06/03/2019 0:00,Credit Card Payment,492,debit,Credit Card Payment,Checking,March,Freelancing,Wednesday
+14/03/2019 0:00,Credit Card Payment,302,debit,Credit Card Payment,Checking,March,Online Sales,Thursday
+14/03/2019 0:00,Credit Card Payment,305,debit,Credit Card Payment,Checking,March,Online Sales,Thursday
+01/04/2019 0:00,Credit Card Payment,1553,debit,Credit Card Payment,Checking,April,YouTube Revenue,Monday
+09/04/2019 0:00,Credit Card Payment,437,debit,Credit Card Payment,Checking,April,Adsense,Tuesday
+19/04/2019 0:00,Credit Card Payment,604,debit,Credit Card Payment,Checking,April,Freelancing,Friday
+29/04/2019 0:00,Credit Card Payment,269,debit,Credit Card Payment,Checking,April,Consulting,Monday
+03/05/2019 0:00,Credit Card Payment,758,debit,Credit Card Payment,Checking,May,Freelancing,Friday
+13/05/2019 0:00,Credit Card Payment,481,debit,Credit Card Payment,Checking,May,Consulting,Monday
+20/05/2019 0:00,Credit Card Payment,415,debit,Credit Card Payment,Checking,May,Freelancing,Monday
+28/05/2019 0:00,Credit Card Payment,766,debit,Credit Card Payment,Checking,May,Rental Income,Tuesday
+07/06/2019 0:00,Credit Card Payment,459,debit,Credit Card Payment,Checking,June,Business,Friday
+13/06/2019 0:00,Credit Card Payment,153,debit,Credit Card Payment,Checking,June,Rental Income,Thursday
+20/06/2019 0:00,Credit Card Payment,375,debit,Credit Card Payment,Checking,June,Freelancing,Thursday
+21/06/2019 0:00,Credit Card Payment,101,debit,Credit Card Payment,Checking,June,Business,Friday
+08/07/2019 0:00,Credit Card Payment,220,debit,Credit Card Payment,Checking,July,Business,Monday
+08/07/2019 0:00,Credit Card Payment,305,debit,Credit Card Payment,Checking,July,Business,Monday
+18/07/2019 0:00,Credit Card Payment,814,debit,Credit Card Payment,Checking,July,Tutoring,Thursday
+23/07/2019 0:00,Credit Card Payment,257,debit,Credit Card Payment,Checking,July,Freelancing,Tuesday
+06/08/2019 0:00,Credit Card Payment,118,debit,Credit Card Payment,Checking,August,Business,Tuesday
+06/08/2019 0:00,Credit Card Payment,521,debit,Credit Card Payment,Checking,August,Business,Tuesday
+15/08/2019 0:00,Credit Card Payment,335,debit,Credit Card Payment,Checking,August,Consulting,Thursday
+19/08/2019 0:00,Credit Card Payment,1249,debit,Credit Card Payment,Checking,August,Salary,Monday
+06/09/2019 0:00,Credit Card Payment,503,debit,Credit Card Payment,Checking,September,Investments,Friday
+06/09/2019 0:00,Credit Card Payment,1390,debit,Credit Card Payment,Checking,September,Investments,Friday
+12/09/2019 0:00,Credit Card Payment,361,debit,Credit Card Payment,Checking,September,Tutoring,Thursday
+16/09/2019 0:00,Credit Card Payment,91,debit,Credit Card Payment,Checking,September,Business,Monday
+18/09/2019 0:00,Credit Card Payment,1606,debit,Credit Card Payment,Checking,September,Adsense,Wednesday
+23/09/2019 0:00,Credit Card Payment,9,debit,Credit Card Payment,Checking,September,Tutoring,Monday
+03/01/2018 0:00,Credit Card Payment,2298,credit,Credit Card Payment,Platinum Card,January,Business,Wednesday
+22/01/2018 0:00,Credit Card Payment,555,credit,Credit Card Payment,Platinum Card,January,Online Sales,Monday
+22/01/2018 0:00,Credit Card Payment,310,credit,Credit Card Payment,Silver Card,January,Online Sales,Monday
+05/02/2018 0:00,Credit Card Payment,145,credit,Credit Card Payment,Platinum Card,February,Rental Income,Monday
+06/02/2018 0:00,Credit Card Payment,154,credit,Credit Card Payment,Silver Card,February,Online Sales,Tuesday
+26/02/2018 0:00,Credit Card Payment,765,credit,Credit Card Payment,Platinum Card,February,Tutoring,Monday
+26/02/2018 0:00,Credit Card Payment,156,credit,Credit Card Payment,Silver Card,February,Tutoring,Monday
+05/03/2018 0:00,Credit Card Payment,762,credit,Credit Card Payment,Silver Card,March,Adsense,Monday
+23/03/2018 0:00,Credit Card Payment,560,credit,Credit Card Payment,Platinum Card,March,Consulting,Friday
+02/04/2018 0:00,Credit Card Payment,817,credit,Credit Card Payment,Silver Card,April,Adsense,Monday
+04/04/2018 0:00,Credit Card Payment,363,credit,Credit Card Payment,Platinum Card,April,Online Sales,Wednesday
+26/04/2018 0:00,Credit Card Payment,1217,credit,Credit Card Payment,Platinum Card,April,Business,Thursday
+26/04/2018 0:00,Credit Card Payment,770,credit,Credit Card Payment,Silver Card,April,Business,Thursday
+09/05/2018 0:00,Credit Card Payment,601,credit,Credit Card Payment,Platinum Card,May,Investments,Wednesday
+19/05/2018 0:00,Credit Card Payment,207,credit,Credit Card Payment,Platinum Card,May,Freelancing,Saturday
+21/05/2018 0:00,Credit Card Payment,283,credit,Credit Card Payment,Silver Card,May,Business,Monday
+02/06/2018 0:00,Credit Card Payment,466,credit,Credit Card Payment,Platinum Card,June,YouTube Revenue,Saturday
+02/06/2018 0:00,Credit Card Payment,235,credit,Credit Card Payment,Silver Card,June,YouTube Revenue,Saturday
+14/06/2018 0:00,Credit Card Payment,283,credit,Credit Card Payment,Platinum Card,June,Consulting,Thursday
+20/06/2018 0:00,Credit Card Payment,89,credit,Credit Card Payment,Silver Card,June,Business,Wednesday
+25/06/2018 0:00,Credit Card Payment,943,credit,Credit Card Payment,Platinum Card,June,Online Sales,Monday
+08/07/2018 0:00,Credit Card Payment,260,credit,Credit Card Payment,Platinum Card,July,Rental Income,Sunday
+09/07/2018 0:00,Credit Card Payment,242,credit,Credit Card Payment,Silver Card,July,Online Sales,Monday
+20/07/2018 0:00,Credit Card Payment,61,credit,Credit Card Payment,Silver Card,July,Investments,Friday
+20/07/2018 0:00,Credit Card Payment,103,credit,Credit Card Payment,Platinum Card,July,Investments,Friday
+02/08/2018 0:00,Credit Card Payment,816,credit,Credit Card Payment,Platinum Card,August,Investments,Thursday
+15/08/2018 0:00,Credit Card Payment,270,credit,Credit Card Payment,Silver Card,August,Salary,Wednesday
+15/08/2018 0:00,Credit Card Payment,159,credit,Credit Card Payment,Platinum Card,August,Salary,Wednesday
+21/08/2018 0:00,Credit Card Payment,100,credit,Credit Card Payment,Platinum Card,August,Rental Income,Tuesday
+21/08/2018 0:00,Credit Card Payment,34,credit,Credit Card Payment,Silver Card,August,Rental Income,Tuesday
+04/09/2018 0:00,Credit Card Payment,687,credit,Credit Card Payment,Platinum Card,September,Investments,Tuesday
+14/09/2018 0:00,Credit Card Payment,134,credit,Credit Card Payment,Platinum Card,September,YouTube Revenue,Friday
+28/09/2018 0:00,Credit Card Payment,128,credit,Credit Card Payment,Silver Card,September,Tutoring,Friday
+28/09/2018 0:00,Credit Card Payment,285,credit,Credit Card Payment,Platinum Card,September,Tutoring,Friday
+02/10/2018 0:00,Credit Card Payment,124,credit,Credit Card Payment,Platinum Card,October,Freelancing,Tuesday
+21/10/2018 0:00,Credit Card Payment,544,credit,Credit Card Payment,Platinum Card,October,Business,Sunday
+22/10/2018 0:00,Credit Card Payment,354,credit,Credit Card Payment,Silver Card,October,Investments,Monday
+02/11/2018 0:00,Credit Card Payment,263,credit,Credit Card Payment,Platinum Card,November,Freelancing,Friday
+20/11/2018 0:00,Credit Card Payment,422,credit,Credit Card Payment,Platinum Card,November,Rental Income,Tuesday
+29/11/2018 0:00,Credit Card Payment,752,credit,Credit Card Payment,Platinum Card,November,Salary,Thursday
+29/11/2018 0:00,Credit Card Payment,583,credit,Credit Card Payment,Silver Card,November,Salary,Thursday
+18/12/2018 0:00,Credit Card Payment,311,credit,Credit Card Payment,Platinum Card,December,Adsense,Tuesday
+20/12/2018 0:00,Credit Card Payment,464,credit,Credit Card Payment,Silver Card,December,Online Sales,Thursday
+29/12/2018 0:00,Credit Card Payment,860,credit,Credit Card Payment,Platinum Card,December,Investments,Saturday
+09/01/2019 0:00,Credit Card Payment,491,credit,Credit Card Payment,Platinum Card,January,Salary,Wednesday
+21/01/2019 0:00,Credit Card Payment,278,credit,Credit Card Payment,Silver Card,January,Online Sales,Monday
+15/02/2019 0:00,Credit Card Payment,207,credit,Credit Card Payment,Platinum Card,February,Salary,Friday
+20/02/2019 0:00,Credit Card Payment,293,credit,Credit Card Payment,Silver Card,February,Investments,Wednesday
+13/03/2019 0:00,Credit Card Payment,302,credit,Credit Card Payment,Silver Card,March,Rental Income,Wednesday
+13/03/2019 0:00,Credit Card Payment,533,credit,Credit Card Payment,Platinum Card,March,Rental Income,Wednesday
+31/03/2019 0:00,Credit Card Payment,958,credit,Credit Card Payment,Platinum Card,March,Tutoring,Sunday
+01/04/2019 0:00,Credit Card Payment,601,credit,Credit Card Payment,Platinum Card,April,YouTube Revenue,Monday
+18/04/2019 0:00,Credit Card Payment,458,credit,Credit Card Payment,Platinum Card,April,Salary,Thursday
+18/04/2019 0:00,Credit Card Payment,604,credit,Credit Card Payment,Silver Card,April,Salary,Thursday
+27/04/2019 0:00,Credit Card Payment,269,credit,Credit Card Payment,Silver Card,April,Online Sales,Saturday
+17/05/2019 0:00,Credit Card Payment,575,credit,Credit Card Payment,Platinum Card,May,Salary,Friday
+24/05/2019 0:00,Credit Card Payment,766,credit,Credit Card Payment,Silver Card,May,Business,Friday
+03/06/2019 0:00,Credit Card Payment,261,credit,Credit Card Payment,Platinum Card,June,Tutoring,Monday
+13/06/2019 0:00,Credit Card Payment,153,credit,Credit Card Payment,Platinum Card,June,Rental Income,Thursday
+20/06/2019 0:00,Credit Card Payment,101,credit,Credit Card Payment,Silver Card,June,Freelancing,Thursday
+06/07/2019 0:00,Credit Card Payment,220,credit,Credit Card Payment,Silver Card,July,Salary,Saturday
+09/07/2019 0:00,Credit Card Payment,550,credit,Credit Card Payment,Platinum Card,July,Investments,Tuesday
+19/07/2019 0:00,Credit Card Payment,116,credit,Credit Card Payment,Platinum Card,July,YouTube Revenue,Friday
+22/07/2019 0:00,Credit Card Payment,257,credit,Credit Card Payment,Silver Card,July,Salary,Monday
+05/08/2019 0:00,Credit Card Payment,118,credit,Credit Card Payment,Silver Card,August,Freelancing,Monday
+05/08/2019 0:00,Credit Card Payment,349,credit,Credit Card Payment,Platinum Card,August,Freelancing,Monday
+17/08/2019 0:00,Credit Card Payment,87,credit,Credit Card Payment,Platinum Card,August,YouTube Revenue,Saturday
+06/09/2019 0:00,Credit Card Payment,1390,credit,Credit Card Payment,Platinum Card,September,Investments,Friday
+11/09/2019 0:00,Credit Card Payment,361,credit,Credit Card Payment,Silver Card,September,Consulting,Wednesday
+16/09/2019 0:00,Credit Card Payment,91,credit,Credit Card Payment,Silver Card,September,Business,Monday
+17/09/2019 0:00,Credit Card Payment,186,credit,Credit Card Payment,Platinum Card,September,Investments,Tuesday
+20/09/2019 0:00,Credit Card Payment,9,credit,Credit Card Payment,Silver Card,September,Online Sales,Friday
+11/01/2018 0:00,Grocery Store,44,debit,Groceries,Platinum Card,January,YouTube Revenue,Thursday
+15/01/2018 0:00,Grocery Store,44,debit,Groceries,Silver Card,January,Business,Monday
+01/02/2018 0:00,Grocery Store,28,debit,Groceries,Platinum Card,February,Freelancing,Thursday
+20/02/2018 0:00,Grocery Store,36,debit,Groceries,Silver Card,February,Rental Income,Tuesday
+01/03/2018 0:00,Grocery Store,32,debit,Groceries,Silver Card,March,Salary,Thursday
+03/03/2018 0:00,Grocery Store,24,debit,Groceries,Silver Card,March,Business,Saturday
+04/03/2018 0:00,Grocery Store,11,debit,Groceries,Platinum Card,March,Investments,Sunday
+09/03/2018 0:00,Grocery Store,5,debit,Groceries,Platinum Card,March,Consulting,Friday
+09/03/2018 0:00,Grocery Store,21,debit,Groceries,Platinum Card,March,Consulting,Friday
+12/03/2018 0:00,Grocery Store,19,debit,Groceries,Platinum Card,March,Tutoring,Monday
+14/03/2018 0:00,Grocery Store,22,debit,Groceries,Platinum Card,March,Salary,Wednesday
+23/03/2018 0:00,Grocery Store,12,debit,Groceries,Silver Card,March,Consulting,Friday
+28/03/2018 0:00,Grocery Store,16,debit,Groceries,Silver Card,March,YouTube Revenue,Wednesday
+30/03/2018 0:00,Grocery Store,9,debit,Groceries,Silver Card,March,Freelancing,Friday
+01/04/2018 0:00,Grocery Store,81,debit,Groceries,Platinum Card,April,Investments,Sunday
+02/04/2018 0:00,Grocery Store,82,debit,Groceries,Platinum Card,April,Adsense,Monday
+21/04/2018 0:00,Grocery Store,4,debit,Groceries,Silver Card,April,Consulting,Saturday
+22/04/2018 0:00,Grocery Store,21,debit,Groceries,Platinum Card,April,Tutoring,Sunday
+28/04/2018 0:00,Grocery Store,23,debit,Groceries,Silver Card,April,Adsense,Saturday
+29/04/2018 0:00,Grocery Store,51,debit,Groceries,Platinum Card,April,Rental Income,Sunday
+30/04/2018 0:00,Grocery Store,5,debit,Groceries,Platinum Card,April,Online Sales,Monday
+04/05/2018 0:00,Grocery Store,42,debit,Groceries,Platinum Card,May,Salary,Friday
+11/05/2018 0:00,Grocery Store,57,debit,Groceries,Platinum Card,May,Rental Income,Friday
+14/05/2018 0:00,Grocery Store,68,debit,Groceries,Silver Card,May,Consulting,Monday
+19/05/2018 0:00,Grocery Store,31,debit,Groceries,Silver Card,May,Freelancing,Saturday
+28/05/2018 0:00,Grocery Store,91,debit,Groceries,Silver Card,May,Online Sales,Monday
+01/06/2018 0:00,Grocery Store,6,debit,Groceries,Platinum Card,June,Tutoring,Friday
+04/06/2018 0:00,Grocery Store,24,debit,Groceries,Platinum Card,June,Freelancing,Monday
+09/06/2018 0:00,Grocery Store,10,debit,Groceries,Platinum Card,June,Adsense,Saturday
+10/06/2018 0:00,Grocery Store,46,debit,Groceries,Platinum Card,June,Rental Income,Sunday
+12/06/2018 0:00,Grocery Store,13,debit,Groceries,Platinum Card,June,Online Sales,Tuesday
+14/06/2018 0:00,Grocery Store,7,debit,Groceries,Platinum Card,June,Consulting,Thursday
+16/06/2018 0:00,Grocery Store,14,debit,Groceries,Platinum Card,June,YouTube Revenue,Saturday
+19/06/2018 0:00,Grocery Store,3,debit,Groceries,Platinum Card,June,Freelancing,Tuesday
+26/06/2018 0:00,Grocery Store,10,debit,Groceries,Silver Card,June,Consulting,Tuesday
+28/06/2018 0:00,Grocery Store,8,debit,Groceries,Silver Card,June,YouTube Revenue,Thursday
+05/07/2018 0:00,Grocery Store,44,debit,Groceries,Silver Card,July,Investments,Thursday
+10/07/2018 0:00,Grocery Store,5,debit,Groceries,Silver Card,July,Consulting,Tuesday
+21/07/2018 0:00,Grocery Store,29,debit,Groceries,Platinum Card,July,Adsense,Saturday
+28/07/2018 0:00,Grocery Store,8,debit,Groceries,Silver Card,July,YouTube Revenue,Saturday
+03/08/2018 0:00,Grocery Store,6,debit,Groceries,Silver Card,August,Adsense,Friday
+15/08/2018 0:00,Grocery Store,6,debit,Groceries,Platinum Card,August,Salary,Wednesday
+31/08/2018 0:00,Grocery Store,12,debit,Groceries,Platinum Card,August,Salary,Friday
+11/09/2018 0:00,Grocery Store,8,debit,Groceries,Platinum Card,September,Online Sales,Tuesday
+12/09/2018 0:00,Grocery Store,47,debit,Groceries,Platinum Card,September,Consulting,Wednesday
+13/09/2018 0:00,Grocery Store,6,debit,Groceries,Platinum Card,September,Tutoring,Thursday
+17/09/2018 0:00,Grocery Store,9,debit,Groceries,Platinum Card,September,Salary,Monday
+17/09/2018 0:00,Grocery Store,10,debit,Groceries,Platinum Card,September,Salary,Monday
+18/09/2018 0:00,Grocery Store,4,debit,Groceries,Platinum Card,September,Freelancing,Tuesday
+28/09/2018 0:00,Grocery Store,13,debit,Groceries,Platinum Card,September,Tutoring,Friday
+01/10/2018 0:00,Grocery Store,16,debit,Groceries,Platinum Card,October,Salary,Monday
+10/10/2018 0:00,Grocery Store,54,debit,Groceries,Silver Card,October,Online Sales,Wednesday
+18/10/2018 0:00,Grocery Store,34,debit,Groceries,Platinum Card,October,Freelancing,Thursday
+23/10/2018 0:00,Grocery Store,8,debit,Groceries,Platinum Card,October,Adsense,Tuesday
+28/10/2018 0:00,Grocery Store,92,debit,Groceries,Platinum Card,October,Tutoring,Sunday
+31/10/2018 0:00,Grocery Store,6,debit,Groceries,Platinum Card,October,YouTube Revenue,Wednesday
+08/11/2018 0:00,Grocery Store,6,debit,Groceries,Platinum Card,November,Online Sales,Thursday
+12/11/2018 0:00,Grocery Store,10,debit,Groceries,Platinum Card,November,YouTube Revenue,Monday
+13/11/2018 0:00,Grocery Store,10,debit,Groceries,Platinum Card,November,Salary,Tuesday
+13/11/2018 0:00,Grocery Store,5,debit,Groceries,Platinum Card,November,Salary,Tuesday
+13/11/2018 0:00,Grocery Store,37,debit,Groceries,Platinum Card,November,Salary,Tuesday
+21/11/2018 0:00,Grocery Store,6,debit,Groceries,Silver Card,November,Online Sales,Wednesday
+30/11/2018 0:00,Grocery Store,6,debit,Groceries,Silver Card,November,Freelancing,Friday
+01/12/2018 0:00,Grocery Store,6,debit,Groceries,Silver Card,December,Business,Saturday
+03/12/2018 0:00,Grocery Store,148,debit,Groceries,Silver Card,December,Investments,Monday
+06/12/2018 0:00,Grocery Store,13,debit,Groceries,Platinum Card,December,Rental Income,Thursday
+06/12/2018 0:00,Grocery Store,21,debit,Groceries,Platinum Card,December,Rental Income,Thursday
+08/12/2018 0:00,Grocery Store,13,debit,Groceries,Platinum Card,December,Consulting,Saturday
+14/12/2018 0:00,Grocery Store,21,debit,Groceries,Silver Card,December,Business,Friday
+29/12/2018 0:00,Grocery Store,55,debit,Groceries,Silver Card,December,Investments,Saturday
+10/01/2019 0:00,Grocery Store,59,debit,Groceries,Silver Card,January,Freelancing,Thursday
+15/01/2019 0:00,Grocery Store,6,debit,Groceries,Silver Card,January,Investments,Tuesday
+24/01/2019 0:00,Grocery Store,21,debit,Groceries,Silver Card,January,Tutoring,Thursday
+12/02/2019 0:00,Grocery Store,31,debit,Groceries,Platinum Card,February,Tutoring,Tuesday
+13/02/2019 0:00,Grocery Store,8,debit,Groceries,Platinum Card,February,YouTube Revenue,Wednesday
+15/02/2019 0:00,Grocery Store,5,debit,Groceries,Platinum Card,February,Salary,Friday
+21/02/2019 0:00,Grocery Store,47,debit,Groceries,Silver Card,February,Adsense,Thursday
+28/02/2019 0:00,Grocery Store,32,debit,Groceries,Silver Card,February,Consulting,Thursday
+04/03/2019 0:00,Grocery Store,92,debit,Groceries,Silver Card,March,YouTube Revenue,Monday
+18/03/2019 0:00,Grocery Store,16,debit,Groceries,Platinum Card,March,Tutoring,Monday
+27/03/2019 0:00,Grocery Store,4,debit,Groceries,Platinum Card,March,Rental Income,Wednesday
+04/04/2019 0:00,Grocery Store,6,debit,Groceries,Platinum Card,April,Freelancing,Thursday
+09/04/2019 0:00,Grocery Store,11,debit,Groceries,Platinum Card,April,Adsense,Tuesday
+12/04/2019 0:00,Grocery Store,41,debit,Groceries,Platinum Card,April,Online Sales,Friday
+13/04/2019 0:00,Grocery Store,17,debit,Groceries,Platinum Card,April,Consulting,Saturday
+19/04/2019 0:00,Grocery Store,11,debit,Groceries,Platinum Card,April,Freelancing,Friday
+29/04/2019 0:00,Grocery Store,6,debit,Groceries,Platinum Card,April,Consulting,Monday
+14/05/2019 0:00,Grocery Store,2,debit,Groceries,Silver Card,May,Tutoring,Tuesday
+05/06/2019 0:00,Grocery Store,23,debit,Groceries,Platinum Card,June,Salary,Wednesday
+06/06/2019 0:00,Grocery Store,6,debit,Groceries,Platinum Card,June,Freelancing,Thursday
+14/06/2019 0:00,Grocery Store,11,debit,Groceries,Silver Card,June,Online Sales,Friday
+01/07/2019 0:00,Grocery Store,99,debit,Groceries,Silver Card,July,Online Sales,Monday
+06/07/2019 0:00,Grocery Store,93,debit,Groceries,Platinum Card,July,Salary,Saturday
+15/07/2019 0:00,Grocery Store,87,debit,Groceries,Silver Card,July,Rental Income,Monday
+18/07/2019 0:00,Grocery Store,30,debit,Groceries,Platinum Card,July,Tutoring,Thursday
+29/07/2019 0:00,Grocery Store,5,debit,Groceries,Platinum Card,July,Rental Income,Monday
+30/07/2019 0:00,Grocery Store,16,debit,Groceries,Platinum Card,July,Online Sales,Tuesday
+03/08/2019 0:00,Grocery Store,4,debit,Groceries,Platinum Card,August,YouTube Revenue,Saturday
+08/08/2019 0:00,Grocery Store,12,debit,Groceries,Silver Card,August,Investments,Thursday
+17/08/2019 0:00,Grocery Store,33,debit,Groceries,Platinum Card,August,YouTube Revenue,Saturday
+09/09/2019 0:00,Grocery Store,65,debit,Groceries,Silver Card,September,Online Sales,Monday
+14/09/2019 0:00,Grocery Store,46,debit,Groceries,Platinum Card,September,Salary,Saturday
+23/09/2019 0:00,Grocery Store,28,debit,Groceries,Platinum Card,September,Tutoring,Monday
+01/01/2018 0:00,Amazon,11,debit,Shopping,Platinum Card,January,Salary,Monday
+02/01/2018 0:00,Thai Restaurant,24,debit,Restaurants,Silver Card,January,Freelancing,Tuesday
+02/01/2018 0:00,Mortgage Payment,1247,debit,Mortgage & Rent,Checking,January,Freelancing,Tuesday
+04/01/2018 0:00,Netflix,12,debit,Movies & DVDs,Platinum Card,January,Investments,Thursday
+05/01/2018 0:00,American Tavern,26,debit,Restaurants,Silver Card,January,Adsense,Friday
+06/01/2018 0:00,Hardware Store,18,debit,Home Improvement,Silver Card,January,Rental Income,Saturday
+08/01/2018 0:00,Hardware Store,15,debit,Home Improvement,Silver Card,January,Online Sales,Monday
+08/01/2018 0:00,Gas Company,45,debit,Utilities,Checking,January,Online Sales,Monday
+09/01/2018 0:00,Spotify,11,debit,Music,Platinum Card,January,Consulting,Tuesday
+10/01/2018 0:00,Phone Company,89,debit,Mobile Phone,Checking,January,Tutoring,Wednesday
+11/01/2018 0:00,Shell,35,debit,Gas & Fuel,Platinum Card,January,YouTube Revenue,Thursday
+12/01/2018 0:00,Biweekly Paycheck,2000,credit,Paycheck,Checking,January,Salary,Friday
+13/01/2018 0:00,Amazon,39,debit,Shopping,Platinum Card,January,Freelancing,Saturday
+13/01/2018 0:00,Pizza Place,33,debit,Fast Food,Platinum Card,January,Freelancing,Saturday
+15/01/2018 0:00,American Tavern,64,debit,Restaurants,Silver Card,January,Business,Monday
+16/01/2018 0:00,Power Company,60,debit,Utilities,Checking,January,Investments,Tuesday
+16/01/2018 0:00,City Water Charges,35,debit,Utilities,Checking,January,Investments,Tuesday
+19/01/2018 0:00,Biweekly Paycheck,2000,credit,Paycheck,Checking,January,Adsense,Friday
+20/01/2018 0:00,Amazon,50,debit,Shopping,Platinum Card,January,Rental Income,Saturday
+22/01/2018 0:00,Hardware Store,17,debit,Home Improvement,Silver Card,January,Online Sales,Monday
+24/01/2018 0:00,Starbucks,3,debit,Coffee Shops,Platinum Card,January,Tutoring,Wednesday
+25/01/2018 0:00,Internet Service Provider,70,debit,Internet,Checking,January,YouTube Revenue,Thursday
+29/01/2018 0:00,Brunch Restaurant,18,debit,Restaurants,Platinum Card,January,Salary,Monday
+29/01/2018 0:00,Thai Restaurant,25,debit,Restaurants,Silver Card,January,Salary,Monday
+29/01/2018 0:00,Shell,30,debit,Gas & Fuel,Silver Card,January,Salary,Monday
+01/02/2018 0:00,Amazon,11,debit,Shopping,Platinum Card,February,Freelancing,Thursday
+02/02/2018 0:00,Biweekly Paycheck,2000,credit,Paycheck,Checking,February,Business,Friday
+02/02/2018 0:00,Mortgage Payment,1247,debit,Mortgage & Rent,Checking,February,Business,Friday
+03/02/2018 0:00,Japanese Restaurant,57,debit,Restaurants,Platinum Card,February,Investments,Saturday
+04/02/2018 0:00,Netflix,12,debit,Movies & DVDs,Platinum Card,February,Adsense,Sunday
+07/02/2018 0:00,Gas Company,65,debit,Utilities,Checking,February,Consulting,Wednesday
+09/02/2018 0:00,Spotify,11,debit,Music,Platinum Card,February,Tutoring,Friday
+09/02/2018 0:00,Barbershop,30,debit,Haircut,Platinum Card,February,Tutoring,Friday
+10/02/2018 0:00,Bojangles,11,debit,Fast Food,Platinum Card,February,YouTube Revenue,Saturday
+11/02/2018 0:00,Fancy Restaurant,107,debit,Restaurants,Platinum Card,February,Salary,Sunday
+12/02/2018 0:00,Phone Company,90,debit,Mobile Phone,Checking,February,Freelancing,Monday
+12/02/2018 0:00,Shell,36,debit,Gas & Fuel,Silver Card,February,Freelancing,Monday
+14/02/2018 0:00,Brewing Company,14,debit,Alcohol & Bars,Silver Card,February,Business,Wednesday
+15/02/2018 0:00,Power Company,60,debit,Utilities,Checking,February,Investments,Thursday
+15/02/2018 0:00,American Tavern,10,debit,Restaurants,Platinum Card,February,Investments,Thursday
+16/02/2018 0:00,City Water Charges,35,debit,Utilities,Checking,February,Adsense,Friday
+16/02/2018 0:00,Brunch Restaurant,8,debit,Restaurants,Silver Card,February,Adsense,Friday
+16/02/2018 0:00,Biweekly Paycheck,2000,credit,Paycheck,Checking,February,Adsense,Friday
+20/02/2018 0:00,Mexican Restaurant,24,debit,Restaurants,Silver Card,February,Rental Income,Tuesday
+21/02/2018 0:00,Starbucks,2,debit,Coffee Shops,Platinum Card,February,Online Sales,Wednesday
+22/02/2018 0:00,Starbucks,4,debit,Coffee Shops,Silver Card,February,Consulting,Thursday
+26/02/2018 0:00,Internet Service Provider,75,debit,Internet,Checking,February,Tutoring,Monday
+26/02/2018 0:00,American Tavern,86,debit,Restaurants,Silver Card,February,Tutoring,Monday
+26/02/2018 0:00,Gas Station,32,debit,Gas & Fuel,Silver Card,February,Tutoring,Monday
+01/03/2018 0:00,Amazon,13,debit,Shopping,Platinum Card,March,Salary,Thursday
+02/03/2018 0:00,Biweekly Paycheck,2000,credit,Paycheck,Checking,March,Freelancing,Friday
+02/03/2018 0:00,Mortgage Payment,1247,debit,Mortgage & Rent,Checking,March,Freelancing,Friday
+04/03/2018 0:00,BBQ Restaurant,42,debit,Restaurants,Platinum Card,March,Investments,Sunday
+04/03/2018 0:00,Netflix,12,debit,Movies & DVDs,Platinum Card,March,Investments,Sunday
+05/03/2018 0:00,Starbucks,3,debit,Coffee Shops,Platinum Card,March,Adsense,Monday
+07/03/2018 0:00,Starbucks,4,debit,Coffee Shops,Platinum Card,March,Rental Income,Wednesday
+08/03/2018 0:00,Gas Company,52,debit,Utilities,Checking,March,Online Sales,Thursday
+08/03/2018 0:00,BP,35,debit,Gas & Fuel,Platinum Card,March,Online Sales,Thursday
+09/03/2018 0:00,Spotify,11,debit,Music,Platinum Card,March,Consulting,Friday
+12/03/2018 0:00,Phone Company,90,debit,Mobile Phone,Checking,March,Tutoring,Monday
+13/03/2018 0:00,Amazon,46,debit,Shopping,Platinum Card,March,YouTube Revenue,Tuesday
+14/03/2018 0:00,Brunch Restaurant,8,debit,Restaurants,Platinum Card,March,Salary,Wednesday
+15/03/2018 0:00,Power Company,60,debit,Utilities,Checking,March,Freelancing,Thursday
+15/03/2018 0:00,Starbucks,4,debit,Coffee Shops,Platinum Card,March,Freelancing,Thursday
+16/03/2018 0:00,Biweekly Paycheck,2000,credit,Paycheck,Checking,March,Business,Friday
+17/03/2018 0:00,Pizza Place,23,debit,Fast Food,Platinum Card,March,Investments,Saturday
+17/03/2018 0:00,Brewing Company,20,debit,Alcohol & Bars,Silver Card,March,Investments,Saturday
+19/03/2018 0:00,City Water Charges,35,debit,Utilities,Checking,March,Adsense,Monday
+19/03/2018 0:00,Mediterranean Restaurant,36,debit,Restaurants,Silver Card,March,Adsense,Monday
+20/03/2018 0:00,Amazon,15,debit,Shopping,Platinum Card,March,Rental Income,Tuesday
+22/03/2018 0:00,BP,31,debit,Gas & Fuel,Silver Card,March,Online Sales,Thursday
+26/03/2018 0:00,Internet Service Provider,75,debit,Internet,Checking,March,Tutoring,Monday
+28/03/2018 0:00,Pizza Place,25,debit,Restaurants,Silver Card,March,YouTube Revenue,Wednesday
+29/03/2018 0:00,Steakhouse,18,debit,Restaurants,Silver Card,March,Salary,Thursday
+30/03/2018 0:00,Biweekly Paycheck,2000,credit,Paycheck,Checking,March,Freelancing,Friday
+31/03/2018 0:00,Greek Restaurant,41,debit,Restaurants,Silver Card,March,Business,Saturday
+31/03/2018 0:00,Chili's,25,debit,Restaurants,Platinum Card,March,Business,Saturday
+31/03/2018 0:00,Belgian Restaurant,38,debit,Restaurants,Platinum Card,March,Business,Saturday
+01/04/2018 0:00,Amazon,13,debit,Shopping,Platinum Card,April,Investments,Sunday
+01/04/2018 0:00,Brewing Company,59,debit,Restaurants,Platinum Card,April,Investments,Sunday
+02/04/2018 0:00,Hardware Store,14,debit,Home Improvement,Platinum Card,April,Adsense,Monday
+02/04/2018 0:00,Mortgage Payment,1247,debit,Mortgage & Rent,Checking,April,Adsense,Monday
+03/04/2018 0:00,Amazon Video,6,debit,Movies & DVDs,Platinum Card,April,Rental Income,Tuesday
+04/04/2018 0:00,Netflix,12,debit,Movies & DVDs,Platinum Card,April,Online Sales,Wednesday
+06/04/2018 0:00,Tiny Deli,10,debit,Restaurants,Platinum Card,April,Consulting,Friday
+06/04/2018 0:00,Chevron,5,debit,Gas & Fuel,Platinum Card,April,Consulting,Friday
+08/04/2018 0:00,Irish Pub,22,debit,Restaurants,Platinum Card,April,Tutoring,Sunday
+09/04/2018 0:00,Gas Company,30,debit,Utilities,Checking,April,YouTube Revenue,Monday
+09/04/2018 0:00,Spotify,11,debit,Music,Platinum Card,April,YouTube Revenue,Monday
+09/04/2018 0:00,Blue Sky Market,6,debit,Groceries,Silver Card,April,YouTube Revenue,Monday
+11/04/2018 0:00,Phone Company,90,debit,Mobile Phone,Checking,April,Salary,Wednesday
+12/04/2018 0:00,Barbershop,30,debit,Haircut,Platinum Card,April,Freelancing,Thursday
+12/04/2018 0:00,Starbucks,7,debit,Coffee Shops,Platinum Card,April,Freelancing,Thursday
+13/04/2018 0:00,American Tavern,11,debit,Restaurants,Platinum Card,April,Business,Friday
+13/04/2018 0:00,Biweekly Paycheck,2000,credit,Paycheck,Checking,April,Business,Friday
+13/04/2018 0:00,BP,38,debit,Gas & Fuel,Platinum Card,April,Business,Friday
+14/04/2018 0:00,American Tavern,41,debit,Restaurants,Platinum Card,April,Investments,Saturday
+14/04/2018 0:00,Hardware Store,12,debit,Home Improvement,Platinum Card,April,Investments,Saturday
+16/04/2018 0:00,City Water Charges,35,debit,Utilities,Checking,April,Adsense,Monday
+16/04/2018 0:00,State Farm,75,debit,Auto Insurance,Checking,April,Adsense,Monday
+18/04/2018 0:00,Power Company,60,debit,Utilities,Checking,April,Rental Income,Wednesday
+20/04/2018 0:00,Thai Restaurant,24,debit,Restaurants,Silver Card,April,Online Sales,Friday
+21/04/2018 0:00,American Tavern,35,debit,Restaurants,Silver Card,April,Consulting,Saturday
+23/04/2018 0:00,Hardware Store,43,debit,Home Improvement,Silver Card,April,YouTube Revenue,Monday
+24/04/2018 0:00,Amazon,41,debit,Shopping,Platinum Card,April,Salary,Tuesday
+24/04/2018 0:00,Hardware Store,225,debit,Home Improvement,Platinum Card,April,Salary,Tuesday
+25/04/2018 0:00,Internet Service Provider,75,debit,Internet,Checking,April,Freelancing,Wednesday
+25/04/2018 0:00,Hardware Store,211,debit,Home Improvement,Silver Card,April,Freelancing,Wednesday
+27/04/2018 0:00,Biweekly Paycheck,2000,credit,Paycheck,Checking,April,Investments,Friday
+29/04/2018 0:00,Hardware Store,68,debit,Home Improvement,Platinum Card,April,Rental Income,Sunday
+29/04/2018 0:00,QuikTrip,39,debit,Gas & Fuel,Platinum Card,April,Rental Income,Sunday
+01/05/2018 0:00,Amazon,13,debit,Shopping,Platinum Card,May,Consulting,Tuesday
+02/05/2018 0:00,Mortgage Payment,1247,debit,Mortgage & Rent,Checking,May,Tutoring,Wednesday
+03/05/2018 0:00,Amazon,50,debit,Shopping,Platinum Card,May,YouTube Revenue,Thursday
+04/05/2018 0:00,Netflix,12,debit,Movies & DVDs,Platinum Card,May,Salary,Friday
+05/05/2018 0:00,Pizza Place,21,debit,Fast Food,Platinum Card,May,Freelancing,Saturday
+05/05/2018 0:00,Bojangles,7,debit,Fast Food,Platinum Card,May,Freelancing,Saturday
+06/05/2018 0:00,Amazon,118,debit,Shopping,Platinum Card,May,Business,Sunday
+06/05/2018 0:00,Hardware Store,22,debit,Home Improvement,Platinum Card,May,Business,Sunday
+09/05/2018 0:00,Spotify,11,debit,Music,Platinum Card,May,Investments,Wednesday
+09/05/2018 0:00,Gas Company,30,debit,Utilities,Checking,May,Investments,Wednesday
+10/05/2018 0:00,Phone Company,111,debit,Mobile Phone,Checking,May,Adsense,Thursday
+11/05/2018 0:00,Mike's Construction Co.,8000,debit,Home Improvement,Checking,May,Rental Income,Friday
+11/05/2018 0:00,Biweekly Paycheck,2000,credit,Paycheck,Checking,May,Rental Income,Friday
+12/05/2018 0:00,Fancy Restaurant,78,debit,Restaurants,Platinum Card,May,Online Sales,Saturday
+12/05/2018 0:00,Shell,33,debit,Gas & Fuel,Platinum Card,May,Online Sales,Saturday
+12/05/2018 0:00,Liquor Store,28,debit,Alcohol & Bars,Platinum Card,May,Online Sales,Saturday
+15/05/2018 0:00,Power Company,60,debit,Utilities,Checking,May,Tutoring,Tuesday
+17/05/2018 0:00,City Water Charges,35,debit,Utilities,Checking,May,YouTube Revenue,Thursday
+17/05/2018 0:00,Barbershop,29,debit,Haircut,Silver Card,May,YouTube Revenue,Thursday
+18/05/2018 0:00,Amazon,6,debit,Shopping,Platinum Card,May,Salary,Friday
+18/05/2018 0:00,State Farm,75,debit,Auto Insurance,Checking,May,Salary,Friday
+19/05/2018 0:00,Greek Restaurant,23,debit,Restaurants,Silver Card,May,Freelancing,Saturday
+21/05/2018 0:00,Amazon,32,debit,Shopping,Platinum Card,May,Business,Monday
+21/05/2018 0:00,Thai Restaurant,26,debit,Restaurants,Silver Card,May,Business,Monday
+24/05/2018 0:00,BP,39,debit,Gas & Fuel,Silver Card,May,Adsense,Thursday
+25/05/2018 0:00,Biweekly Paycheck,2000,credit,Paycheck,Checking,May,Rental Income,Friday
+25/05/2018 0:00,Internet Service Provider,75,debit,Internet,Checking,May,Rental Income,Friday
+28/05/2018 0:00,Movie Theater,10,debit,Entertainment,Silver Card,May,Online Sales,Monday
+29/05/2018 0:00,Movie Theater,6,debit,Movies & DVDs,Silver Card,May,Consulting,Tuesday
+29/05/2018 0:00,Movie Theater,20,debit,Movies & DVDs,Silver Card,May,Consulting,Tuesday
+01/06/2018 0:00,Amazon,13,debit,Shopping,Platinum Card,June,Tutoring,Friday
+01/06/2018 0:00,BP,39,debit,Gas & Fuel,Platinum Card,June,Tutoring,Friday
+03/06/2018 0:00,Italian Restaurant,66,debit,Restaurants,Platinum Card,June,Salary,Sunday
+04/06/2018 0:00,Mortgage Payment,1247,debit,Mortgage & Rent,Checking,June,Freelancing,Monday
+04/06/2018 0:00,Netflix,12,debit,Movies & DVDs,Platinum Card,June,Freelancing,Monday
+06/06/2018 0:00,Starbucks,4,debit,Coffee Shops,Platinum Card,June,Business,Wednesday
+08/06/2018 0:00,Gas Company,30,debit,Utilities,Checking,June,Investments,Friday
+08/06/2018 0:00,Biweekly Paycheck,2000,credit,Paycheck,Checking,June,Investments,Friday
+09/06/2018 0:00,Spotify,11,debit,Music,Platinum Card,June,Adsense,Saturday
+09/06/2018 0:00,Chick-Fil-A,16,debit,Fast Food,Platinum Card,June,Adsense,Saturday
+12/06/2018 0:00,Phone Company,89,debit,Mobile Phone,Checking,June,Online Sales,Tuesday
+15/06/2018 0:00,Power Company,60,debit,Utilities,Checking,June,Tutoring,Friday
+16/06/2018 0:00,Pizza Place,23,debit,Fast Food,Platinum Card,June,YouTube Revenue,Saturday
+16/06/2018 0:00,Starbucks,3,debit,Coffee Shops,Platinum Card,June,YouTube Revenue,Saturday
+18/06/2018 0:00,City Water Charges,35,debit,Utilities,Checking,June,Salary,Monday
+19/06/2018 0:00,Shell,39,debit,Gas & Fuel,Platinum Card,June,Freelancing,Tuesday
+20/06/2018 0:00,Barbershop,30,debit,Haircut,Silver Card,June,Business,Wednesday
+20/06/2018 0:00,State Farm,75,debit,Auto Insurance,Checking,June,Business,Wednesday
+22/06/2018 0:00,Biweekly Paycheck,2000,credit,Paycheck,Checking,June,Adsense,Friday
+23/06/2018 0:00,Amazon,75,debit,Shopping,Platinum Card,June,Rental Income,Saturday
+23/06/2018 0:00,Brunch Restaurant,8,debit,Restaurants,Silver Card,June,Rental Income,Saturday
+25/06/2018 0:00,Internet Service Provider,75,debit,Internet,Checking,June,Online Sales,Monday
+27/06/2018 0:00,Pizza Place,23,debit,Fast Food,Platinum Card,June,Tutoring,Wednesday
+27/06/2018 0:00,Starbucks,4,debit,Coffee Shops,Silver Card,June,Tutoring,Wednesday
+01/07/2018 0:00,Amazon,13,debit,Shopping,Platinum Card,July,Salary,Sunday
+02/07/2018 0:00,American Tavern,36,debit,Restaurants,Silver Card,July,Freelancing,Monday
+02/07/2018 0:00,Movie Theater,25,debit,Movies & DVDs,Silver Card,July,Freelancing,Monday
+02/07/2018 0:00,Mortgage Payment,1247,debit,Mortgage & Rent,Checking,July,Freelancing,Monday
+04/07/2018 0:00,Netflix,12,debit,Movies & DVDs,Platinum Card,July,Business,Wednesday
+04/07/2018 0:00,BP,34,debit,Gas & Fuel,Silver Card,July,Business,Wednesday
+05/07/2018 0:00,Amazon,212,debit,Shopping,Platinum Card,July,Investments,Thursday
+06/07/2018 0:00,Biweekly Paycheck,2000,credit,Paycheck,Checking,July,Adsense,Friday
+06/07/2018 0:00,Amazon Video,6,debit,Movies & DVDs,Platinum Card,July,Adsense,Friday
+09/07/2018 0:00,Spotify,11,debit,Music,Platinum Card,July,Online Sales,Monday
+10/07/2018 0:00,Gas Company,30,debit,Utilities,Checking,July,Consulting,Tuesday
+11/07/2018 0:00,Phone Company,89,debit,Mobile Phone,Checking,July,Tutoring,Wednesday
+14/07/2018 0:00,Go Mart,34,debit,Gas & Fuel,Silver Card,July,YouTube Revenue,Saturday
+15/07/2018 0:00,Circle K,36,debit,Gas & Fuel,Platinum Card,July,Salary,Sunday
+17/07/2018 0:00,Power Company,60,debit,Utilities,Checking,July,Freelancing,Tuesday
+17/07/2018 0:00,City Water Charges,35,debit,Utilities,Checking,July,Freelancing,Tuesday
+17/07/2018 0:00,Wendy's,15,debit,Fast Food,Silver Card,July,Freelancing,Tuesday
+18/07/2018 0:00,State Farm,75,debit,Auto Insurance,Checking,July,Business,Wednesday
+18/07/2018 0:00,Irish Restaurant,29,debit,Alcohol & Bars,Platinum Card,July,Business,Wednesday
+20/07/2018 0:00,Biweekly Paycheck,2000,credit,Paycheck,Checking,July,Investments,Friday
+21/07/2018 0:00,Barbershop,30,debit,Haircut,Platinum Card,July,Adsense,Saturday
+23/07/2018 0:00,Starbucks,10,debit,Fast Food,Platinum Card,July,Rental Income,Monday
+24/07/2018 0:00,American Tavern,27,debit,Restaurants,Platinum Card,July,Online Sales,Tuesday
+25/07/2018 0:00,Internet Service Provider,75,debit,Internet,Checking,July,Consulting,Wednesday
+26/07/2018 0:00,Conoco,34,debit,Gas & Fuel,Silver Card,July,Tutoring,Thursday
+30/07/2018 0:00,American Tavern,34,debit,Restaurants,Silver Card,July,Salary,Monday
+31/07/2018 0:00,Brewing Company,7,debit,Alcohol & Bars,Silver Card,July,Freelancing,Tuesday
+01/08/2018 0:00,Amazon,13,debit,Shopping,Platinum Card,August,Business,Wednesday
+02/08/2018 0:00,Mortgage Payment,1247,debit,Mortgage & Rent,Checking,August,Investments,Thursday
+02/08/2018 0:00,Shell,40,debit,Gas & Fuel,Silver Card,August,Investments,Thursday
+03/08/2018 0:00,Biweekly Paycheck,2000,credit,Paycheck,Checking,August,Adsense,Friday
+04/08/2018 0:00,Netflix,12,debit,Movies & DVDs,Platinum Card,August,Rental Income,Saturday
+06/08/2018 0:00,Amazon,76,debit,Shopping,Platinum Card,August,Online Sales,Monday
+09/08/2018 0:00,Gas Company,30,debit,Utilities,Checking,August,Consulting,Thursday
+09/08/2018 0:00,Spotify,11,debit,Music,Platinum Card,August,Consulting,Thursday
+10/08/2018 0:00,Phone Company,89,debit,Mobile Phone,Checking,August,Tutoring,Friday
+11/08/2018 0:00,Valero,34,debit,Gas & Fuel,Platinum Card,August,YouTube Revenue,Saturday
+11/08/2018 0:00,Chick-Fil-A,14,debit,Fast Food,Platinum Card,August,YouTube Revenue,Saturday
+15/08/2018 0:00,Power Company,60,debit,Utilities,Checking,August,Salary,Wednesday
+15/08/2018 0:00,Shell,41,debit,Gas & Fuel,Platinum Card,August,Salary,Wednesday
+16/08/2018 0:00,City Water Charges,35,debit,Utilities,Checking,August,Freelancing,Thursday
+17/08/2018 0:00,Amazon,15,debit,Shopping,Platinum Card,August,Business,Friday
+17/08/2018 0:00,Biweekly Paycheck,2000,credit,Paycheck,Checking,August,Business,Friday
+18/08/2018 0:00,Amazon,23,debit,Shopping,Platinum Card,August,Investments,Saturday
+20/08/2018 0:00,State Farm,75,debit,Auto Insurance,Checking,August,Adsense,Monday
+24/08/2018 0:00,American Tavern,42,debit,Restaurants,Platinum Card,August,Consulting,Friday
+27/08/2018 0:00,Internet Service Provider,75,debit,Internet,Checking,August,Tutoring,Monday
+30/08/2018 0:00,Shell,36,debit,Gas & Fuel,Platinum Card,August,YouTube Revenue,Thursday
+31/08/2018 0:00,Biweekly Paycheck,2000,credit,Paycheck,Checking,August,Salary,Friday
+01/09/2018 0:00,Amazon,13,debit,Shopping,Platinum Card,September,Freelancing,Saturday
+01/09/2018 0:00,Brewing Company,47,debit,Alcohol & Bars,Platinum Card,September,Freelancing,Saturday
+02/09/2018 0:00,Amazon,110,debit,Shopping,Platinum Card,September,Business,Sunday
+04/09/2018 0:00,Mortgage Payment,1247,debit,Mortgage & Rent,Checking,September,Investments,Tuesday
+04/09/2018 0:00,Netflix,12,debit,Movies & DVDs,Platinum Card,September,Investments,Tuesday
+07/09/2018 0:00,Gas Company,30,debit,Utilities,Checking,September,Adsense,Friday
+09/09/2018 0:00,Spotify,11,debit,Music,Platinum Card,September,Rental Income,Sunday
+09/09/2018 0:00,Brewing Company,18,debit,Alcohol & Bars,Platinum Card,September,Rental Income,Sunday
+11/09/2018 0:00,BP,39,debit,Gas & Fuel,Platinum Card,September,Online Sales,Tuesday
+12/09/2018 0:00,Phone Company,89,debit,Mobile Phone,Checking,September,Consulting,Wednesday
+14/09/2018 0:00,Biweekly Paycheck,2000,credit,Paycheck,Checking,September,YouTube Revenue,Friday
+17/09/2018 0:00,City Water Charges,35,debit,Utilities,Checking,September,Salary,Monday
+18/09/2018 0:00,Power Company,60,debit,Utilities,Checking,September,Freelancing,Tuesday
+19/09/2018 0:00,Barbershop,30,debit,Haircut,Platinum Card,September,Business,Wednesday
+19/09/2018 0:00,State Farm,75,debit,Auto Insurance,Checking,September,Business,Wednesday
+20/09/2018 0:00,Amazon,47,debit,Shopping,Platinum Card,September,Investments,Thursday
+22/09/2018 0:00,Hardware Store,7,debit,Home Improvement,Platinum Card,September,Adsense,Saturday
+22/09/2018 0:00,Hardware Store,69,debit,Home Improvement,Platinum Card,September,Adsense,Saturday
+25/09/2018 0:00,Sushi Restaurant,49,debit,Restaurants,Silver Card,September,Rental Income,Tuesday
+25/09/2018 0:00,Internet Service Provider,75,debit,Internet,Checking,September,Rental Income,Tuesday
+26/09/2018 0:00,Exxon,38,debit,Gas & Fuel,Silver Card,September,Online Sales,Wednesday
+26/09/2018 0:00,Starbucks,5,debit,Coffee Shops,Platinum Card,September,Online Sales,Wednesday
+27/09/2018 0:00,Valero,41,debit,Gas & Fuel,Platinum Card,September,Consulting,Thursday
+28/09/2018 0:00,Biweekly Paycheck,2000,credit,Paycheck,Checking,September,Tutoring,Friday
+29/09/2018 0:00,German Restaurant,47,debit,Restaurants,Platinum Card,September,YouTube Revenue,Saturday
+29/09/2018 0:00,Greek Restaurant,23,debit,Restaurants,Platinum Card,September,YouTube Revenue,Saturday
+01/10/2018 0:00,Amazon,13,debit,Shopping,Platinum Card,October,Salary,Monday
+01/10/2018 0:00,Starbucks,3,debit,Coffee Shops,Platinum Card,October,Salary,Monday
+02/10/2018 0:00,Mortgage Payment,1209,debit,Mortgage & Rent,Checking,October,Freelancing,Tuesday
+04/10/2018 0:00,Netflix,12,debit,Movies & DVDs,Platinum Card,October,Business,Thursday
+06/10/2018 0:00,American Tavern,27,debit,Restaurants,Silver Card,October,Investments,Saturday
+08/10/2018 0:00,Hardware Store,31,debit,Home Improvement,Silver Card,October,Adsense,Monday
+08/10/2018 0:00,Hardware Store,81,debit,Home Improvement,Silver Card,October,Adsense,Monday
+08/10/2018 0:00,Shell,38,debit,Gas & Fuel,Silver Card,October,Adsense,Monday
+09/10/2018 0:00,Gas Company,30,debit,Utilities,Checking,October,Rental Income,Tuesday
+09/10/2018 0:00,Amazon,20,debit,Shopping,Platinum Card,October,Rental Income,Tuesday
+09/10/2018 0:00,Spotify,11,debit,Music,Platinum Card,October,Rental Income,Tuesday
+11/10/2018 0:00,Phone Company,89,debit,Mobile Phone,Checking,October,Consulting,Thursday
+12/10/2018 0:00,Biweekly Paycheck,2000,credit,Paycheck,Checking,October,Tutoring,Friday
+16/10/2018 0:00,Power Company,60,debit,Utilities,Checking,October,YouTube Revenue,Tuesday
+17/10/2018 0:00,City Water Charges,35,debit,Utilities,Checking,October,Salary,Wednesday
+18/10/2018 0:00,Hardware Store,45,debit,Home Improvement,Platinum Card,October,Freelancing,Thursday
+18/10/2018 0:00,Brunch Restaurant,8,debit,Restaurants,Platinum Card,October,Freelancing,Thursday
+18/10/2018 0:00,State Farm,75,debit,Auto Insurance,Checking,October,Freelancing,Thursday
+22/10/2018 0:00,BP,35,debit,Gas & Fuel,Platinum Card,October,Investments,Monday
+25/10/2018 0:00,Amazon,30,debit,Shopping,Platinum Card,October,Rental Income,Thursday
+25/10/2018 0:00,Internet Service Provider,75,debit,Internet,Checking,October,Rental Income,Thursday
+26/10/2018 0:00,Biweekly Paycheck,2000,credit,Paycheck,Checking,October,Online Sales,Friday
+27/10/2018 0:00,American Tavern,25,debit,Restaurants,Silver Card,October,Consulting,Saturday
+28/10/2018 0:00,Italian Restaurant,54,debit,Restaurants,Platinum Card,October,Tutoring,Sunday
+28/10/2018 0:00,Brewing Company,13,debit,Alcohol & Bars,Platinum Card,October,Tutoring,Sunday
+28/10/2018 0:00,Seafood Restaurant,15,debit,Food & Dining,Platinum Card,October,Tutoring,Sunday
+01/11/2018 0:00,Amazon,13,debit,Shopping,Platinum Card,November,Salary,Thursday
+02/11/2018 0:00,Mortgage Payment,1209,debit,Mortgage & Rent,Checking,November,Freelancing,Friday
+03/11/2018 0:00,Pizza Place,24,debit,Fast Food,Platinum Card,November,Business,Saturday
+04/11/2018 0:00,Netflix,12,debit,Movies & DVDs,Platinum Card,November,Investments,Sunday
+05/11/2018 0:00,Shell,37,debit,Gas & Fuel,Platinum Card,November,Adsense,Monday
+06/11/2018 0:00,Gas Company,30,debit,Utilities,Checking,November,Rental Income,Tuesday
+06/11/2018 0:00,Amazon,54,debit,Shopping,Platinum Card,November,Rental Income,Tuesday
+09/11/2018 0:00,Biweekly Paycheck,2000,credit,Paycheck,Checking,November,Consulting,Friday
+09/11/2018 0:00,Spotify,11,debit,Music,Platinum Card,November,Consulting,Friday
+10/11/2018 0:00,Food Truck,24,debit,Groceries,Platinum Card,November,Tutoring,Saturday
+10/11/2018 0:00,Chick-Fil-A,14,debit,Fast Food,Platinum Card,November,Tutoring,Saturday
+10/11/2018 0:00,Brewing Company,27,debit,Alcohol & Bars,Platinum Card,November,Tutoring,Saturday
+12/11/2018 0:00,American Tavern,22,debit,Restaurants,Silver Card,November,YouTube Revenue,Monday
+13/11/2018 0:00,Phone Company,90,debit,Mobile Phone,Checking,November,Salary,Tuesday
+14/11/2018 0:00,Power Company,60,debit,Utilities,Checking,November,Freelancing,Wednesday
+16/11/2018 0:00,City Water Charges,35,debit,Utilities,Checking,November,Business,Friday
+17/11/2018 0:00,Hardware Store,6,debit,Home Improvement,Platinum Card,November,Investments,Saturday
+17/11/2018 0:00,Greek Restaurant,23,debit,Restaurants,Platinum Card,November,Investments,Saturday
+17/11/2018 0:00,Brewing Company,23,debit,Alcohol & Bars,Platinum Card,November,Investments,Saturday
+17/11/2018 0:00,Hardware Store,15,debit,Home Improvement,Platinum Card,November,Investments,Saturday
+19/11/2018 0:00,Hardware Store,10,debit,Home Improvement,Silver Card,November,Adsense,Monday
+19/11/2018 0:00,QuikTrip,29,debit,Gas & Fuel,Silver Card,November,Adsense,Monday
+19/11/2018 0:00,Brewing Company,20,debit,Alcohol & Bars,Silver Card,November,Adsense,Monday
+20/11/2018 0:00,State Farm,75,debit,Auto Insurance,Checking,November,Rental Income,Tuesday
+21/11/2018 0:00,Hardware Store,37,debit,Home Improvement,Platinum Card,November,Online Sales,Wednesday
+23/11/2018 0:00,Biweekly Paycheck,2000,credit,Paycheck,Checking,November,Consulting,Friday
+26/11/2018 0:00,Internet Service Provider,75,debit,Internet,Checking,November,Tutoring,Monday
+26/11/2018 0:00,American Tavern,17,debit,Alcohol & Bars,Silver Card,November,Tutoring,Monday
+27/11/2018 0:00,American Tavern,28,debit,Restaurants,Silver Card,November,YouTube Revenue,Tuesday
+27/11/2018 0:00,Movie Theater,17,debit,Movies & DVDs,Silver Card,November,YouTube Revenue,Tuesday
+01/12/2018 0:00,Amazon,13,debit,Shopping,Platinum Card,December,Business,Saturday
+01/12/2018 0:00,Brunch Restaurant,8,debit,Restaurants,Silver Card,December,Business,Saturday
+03/12/2018 0:00,Mortgage Payment,1209,debit,Mortgage & Rent,Checking,December,Investments,Monday
+03/12/2018 0:00,BP,30,debit,Gas & Fuel,Silver Card,December,Investments,Monday
+04/12/2018 0:00,Netflix,12,debit,Movies & DVDs,Platinum Card,December,Adsense,Tuesday
+04/12/2018 0:00,Latin Restaurant,21,debit,Fast Food,Platinum Card,December,Adsense,Tuesday
+04/12/2018 0:00,Starbucks,3,debit,Coffee Shops,Silver Card,December,Adsense,Tuesday
+06/12/2018 0:00,Gas Company,40,debit,Utilities,Checking,December,Rental Income,Thursday
+07/12/2018 0:00,Biweekly Paycheck,2000,credit,Paycheck,Checking,December,Online Sales,Friday
+07/12/2018 0:00,Barbershop,30,debit,Haircut,Platinum Card,December,Online Sales,Friday
+09/12/2018 0:00,Spotify,11,debit,Music,Platinum Card,December,Tutoring,Sunday
+11/12/2018 0:00,Brunch Restaurant,10,debit,Restaurants,Platinum Card,December,YouTube Revenue,Tuesday
+12/12/2018 0:00,Phone Company,90,debit,Mobile Phone,Checking,December,Salary,Wednesday
+13/12/2018 0:00,Thai Restaurant,27,debit,Restaurants,Silver Card,December,Freelancing,Thursday
+14/12/2018 0:00,Power Company,60,debit,Utilities,Checking,December,Business,Friday
+14/12/2018 0:00,Hardware Store,17,debit,Home Improvement,Silver Card,December,Business,Friday
+17/12/2018 0:00,City Water Charges,35,debit,Utilities,Checking,December,Investments,Monday
+17/12/2018 0:00,BP,20,debit,Gas & Fuel,Silver Card,December,Investments,Monday
+17/12/2018 0:00,American Tavern,63,debit,Food & Dining,Silver Card,December,Investments,Monday
+18/12/2018 0:00,Amazon,50,debit,Shopping,Platinum Card,December,Adsense,Tuesday
+18/12/2018 0:00,Amazon,42,debit,Shopping,Platinum Card,December,Adsense,Tuesday
+18/12/2018 0:00,Amazon,24,debit,Shopping,Platinum Card,December,Adsense,Tuesday
+18/12/2018 0:00,Fancy Restaurant,57,debit,Restaurants,Silver Card,December,Adsense,Tuesday
+18/12/2018 0:00,Starbucks,3,debit,Coffee Shops,Silver Card,December,Adsense,Tuesday
+19/12/2018 0:00,Amazon,43,debit,Shopping,Platinum Card,December,Rental Income,Wednesday
+19/12/2018 0:00,State Farm,75,debit,Auto Insurance,Checking,December,Rental Income,Wednesday
+20/12/2018 0:00,Shell,30,debit,Gas & Fuel,Silver Card,December,Online Sales,Thursday
+21/12/2018 0:00,Biweekly Paycheck,2000,credit,Paycheck,Checking,December,Consulting,Friday
+22/12/2018 0:00,Hardware Store,22,debit,Home Improvement,Platinum Card,December,Tutoring,Saturday
+22/12/2018 0:00,New York Deli,21,debit,Fast Food,Platinum Card,December,Tutoring,Saturday
+23/12/2018 0:00,Hardware Store,28,debit,Home Improvement,Platinum Card,December,YouTube Revenue,Sunday
+24/12/2018 0:00,Hardware Store,38,debit,Home Improvement,Platinum Card,December,Salary,Monday
+26/12/2018 0:00,Internet Service Provider,76,debit,Internet,Checking,December,Freelancing,Wednesday
+26/12/2018 0:00,Amazon,45,debit,Shopping,Platinum Card,December,Freelancing,Wednesday
+26/12/2018 0:00,Shell,7,debit,Gas & Fuel,Platinum Card,December,Freelancing,Wednesday
+26/12/2018 0:00,Chick-Fil-A,56,debit,Fast Food,Platinum Card,December,Freelancing,Wednesday
+26/12/2018 0:00,Shell,32,debit,Gas & Fuel,Platinum Card,December,Freelancing,Wednesday
+28/12/2018 0:00,Brewing Company,12,debit,Alcohol & Bars,Silver Card,December,Business,Friday
+29/12/2018 0:00,Brewing Company,14,debit,Alcohol & Bars,Silver Card,December,Investments,Saturday
+01/01/2019 0:00,Amazon,13,debit,Shopping,Platinum Card,January,Adsense,Tuesday
+03/01/2019 0:00,Amazon,42,debit,Shopping,Platinum Card,January,Online Sales,Thursday
+03/01/2019 0:00,Mortgage Payment,1100,debit,Mortgage & Rent,Checking,January,Online Sales,Thursday
+04/01/2019 0:00,Biweekly Paycheck,2000,credit,Paycheck,Checking,January,Consulting,Friday
+05/01/2019 0:00,American Tavern,23,debit,Restaurants,Platinum Card,January,Tutoring,Saturday
+08/01/2019 0:00,Gas Company,45,debit,Utilities,Checking,January,YouTube Revenue,Tuesday
+09/01/2019 0:00,Spotify,11,debit,Music,Platinum Card,January,Salary,Wednesday
+10/01/2019 0:00,Phone Company,65,debit,Mobile Phone,Checking,January,Freelancing,Thursday
+10/01/2019 0:00,Barbershop,30,debit,Haircut,Silver Card,January,Freelancing,Thursday
+14/01/2019 0:00,Shell,29,debit,Gas & Fuel,Silver Card,January,Business,Monday
+16/01/2019 0:00,Power Company,60,debit,Utilities,Checking,January,Adsense,Wednesday
+16/01/2019 0:00,City Water Charges,35,debit,Utilities,Checking,January,Adsense,Wednesday
+18/01/2019 0:00,Biweekly Paycheck,2000,credit,Paycheck,Checking,January,Rental Income,Friday
+18/01/2019 0:00,State Farm,75,debit,Auto Insurance,Checking,January,Rental Income,Friday
+24/01/2019 0:00,Amazon,4,debit,Shopping,Platinum Card,January,Tutoring,Thursday
+24/01/2019 0:00,Amazon,12,debit,Shopping,Platinum Card,January,Tutoring,Thursday
+25/01/2019 0:00,Internet Service Provider,75,debit,Internet,Checking,January,YouTube Revenue,Friday
+31/01/2019 0:00,Shell,31,debit,Gas & Fuel,Silver Card,January,Salary,Thursday
+01/02/2019 0:00,Amazon,13,debit,Shopping,Platinum Card,February,Freelancing,Friday
+01/02/2019 0:00,Roadside Diner,9,debit,Restaurants,Silver Card,February,Freelancing,Friday
+01/02/2019 0:00,Biweekly Paycheck,2000,credit,Paycheck,Checking,February,Freelancing,Friday
+04/02/2019 0:00,Netflix,12,debit,Television,Platinum Card,February,Business,Monday
+04/02/2019 0:00,Hardware Store,87,debit,Home Improvement,Silver Card,February,Business,Monday
+05/02/2019 0:00,Mortgage Payment,1100,debit,Mortgage & Rent,Checking,February,Investments,Tuesday
+07/02/2019 0:00,Gas Company,65,debit,Utilities,Checking,February,Adsense,Thursday
+08/02/2019 0:00,Thai Restaurant,27,debit,Restaurants,Platinum Card,February,Rental Income,Friday
+08/02/2019 0:00,Starbucks,3,debit,Coffee Shops,Platinum Card,February,Rental Income,Friday
+09/02/2019 0:00,Spotify,11,debit,Music,Platinum Card,February,Online Sales,Saturday
+11/02/2019 0:00,BP,24,debit,Gas & Fuel,Platinum Card,February,Consulting,Monday
+11/02/2019 0:00,Starbucks,3,debit,Coffee Shops,Platinum Card,February,Consulting,Monday
+12/02/2019 0:00,Phone Company,65,debit,Mobile Phone,Checking,February,Tutoring,Tuesday
+15/02/2019 0:00,Biweekly Paycheck,2000,credit,Paycheck,Checking,February,Salary,Friday
+15/02/2019 0:00,Power Company,60,debit,Utilities,Checking,February,Salary,Friday
+16/02/2019 0:00,Amazon,37,debit,Shopping,Platinum Card,February,Freelancing,Saturday
+16/02/2019 0:00,American Tavern,33,debit,Restaurants,Platinum Card,February,Freelancing,Saturday
+16/02/2019 0:00,Brewing Company,8,debit,Alcohol & Bars,Platinum Card,February,Freelancing,Saturday
+19/02/2019 0:00,City Water Charges,35,debit,Utilities,Checking,February,Business,Tuesday
+20/02/2019 0:00,Barbershop,30,debit,Haircut,Platinum Card,February,Investments,Wednesday
+20/02/2019 0:00,State Farm,75,debit,Auto Insurance,Checking,February,Investments,Wednesday
+25/02/2019 0:00,Internet Service Provider,75,debit,Internet,Checking,February,Rental Income,Monday
+25/02/2019 0:00,BP,34,debit,Gas & Fuel,Silver Card,February,Rental Income,Monday
+27/02/2019 0:00,Roadside Diner,26,debit,Restaurants,Silver Card,February,Online Sales,Wednesday
+01/03/2019 0:00,Amazon,13,debit,Shopping,Platinum Card,March,Tutoring,Friday
+01/03/2019 0:00,Biweekly Paycheck,2000,credit,Paycheck,Checking,March,Tutoring,Friday
+04/03/2019 0:00,Netflix,12,debit,Television,Platinum Card,March,YouTube Revenue,Monday
+04/03/2019 0:00,Mortgage Payment,1100,debit,Mortgage & Rent,Checking,March,YouTube Revenue,Monday
+05/03/2019 0:00,Fancy Restaurant,7,debit,Restaurants,Silver Card,March,Salary,Tuesday
+08/03/2019 0:00,Gas Company,49,debit,Utilities,Checking,March,Business,Friday
+08/03/2019 0:00,Amazon,27,debit,Shopping,Platinum Card,March,Business,Friday
+08/03/2019 0:00,BP,34,debit,Gas & Fuel,Platinum Card,March,Business,Friday
+09/03/2019 0:00,Spotify,11,debit,Music,Platinum Card,March,Investments,Saturday
+12/03/2019 0:00,Bakery Place,3,debit,Restaurants,Platinum Card,March,Adsense,Tuesday
+12/03/2019 0:00,Phone Company,65,debit,Mobile Phone,Checking,March,Adsense,Tuesday
+14/03/2019 0:00,Brunch Restaurant,8,debit,Restaurants,Platinum Card,March,Online Sales,Thursday
+15/03/2019 0:00,Power Company,60,debit,Utilities,Checking,March,Consulting,Friday
+15/03/2019 0:00,Biweekly Paycheck,2000,credit,Paycheck,Checking,March,Consulting,Friday
+18/03/2019 0:00,Best Buy,321,debit,Electronics & Software,Platinum Card,March,Tutoring,Monday
+19/03/2019 0:00,City Water Charges,35,debit,Utilities,Checking,March,YouTube Revenue,Tuesday
+19/03/2019 0:00,Amazon,14,debit,Shopping,Platinum Card,March,YouTube Revenue,Tuesday
+20/03/2019 0:00,State Farm,75,debit,Auto Insurance,Checking,March,Salary,Wednesday
+22/03/2019 0:00,BP,38,debit,Gas & Fuel,Platinum Card,March,Freelancing,Friday
+23/03/2019 0:00,Starbucks,5,debit,Coffee Shops,Platinum Card,March,Business,Saturday
+25/03/2019 0:00,Internet Service Provider,75,debit,Internet,Checking,March,Investments,Monday
+26/03/2019 0:00,Amazon,16,debit,Shopping,Platinum Card,March,Adsense,Tuesday
+27/03/2019 0:00,Brewing Company,50,debit,Alcohol & Bars,Platinum Card,March,Rental Income,Wednesday
+29/03/2019 0:00,Biweekly Paycheck,2000,credit,Paycheck,Checking,March,Online Sales,Friday
+30/03/2019 0:00,Starbucks,13,debit,Coffee Shops,Platinum Card,March,Consulting,Saturday
+01/04/2019 0:00,Amazon,13,debit,Shopping,Platinum Card,April,YouTube Revenue,Monday
+02/04/2019 0:00,Mortgage Payment,1100,debit,Mortgage & Rent,Checking,April,Salary,Tuesday
+04/04/2019 0:00,Netflix,12,debit,Television,Platinum Card,April,Freelancing,Thursday
+04/04/2019 0:00,Amazon,36,debit,Shopping,Platinum Card,April,Freelancing,Thursday
+06/04/2019 0:00,Amazon,28,debit,Shopping,Platinum Card,April,Business,Saturday
+08/04/2019 0:00,Gas Company,30,debit,Utilities,Checking,April,Investments,Monday
+09/04/2019 0:00,Barbershop,30,debit,Haircut,Platinum Card,April,Adsense,Tuesday
+09/04/2019 0:00,Spotify,11,debit,Music,Platinum Card,April,Adsense,Tuesday
+10/04/2019 0:00,Phone Company,65,debit,Mobile Phone,Checking,April,Rental Income,Wednesday
+12/04/2019 0:00,Biweekly Paycheck,2000,credit,Paycheck,Checking,April,Online Sales,Friday
+12/04/2019 0:00,Best Buy,45,debit,Electronics & Software,Silver Card,April,Online Sales,Friday
+13/04/2019 0:00,Vietnamese Restaurant,21,debit,Restaurants,Platinum Card,April,Consulting,Saturday
+13/04/2019 0:00,QuikTrip,39,debit,Gas & Fuel,Platinum Card,April,Consulting,Saturday
+15/04/2019 0:00,Power Company,60,debit,Utilities,Checking,April,Tutoring,Monday
+16/04/2019 0:00,City Water Charges,35,debit,Utilities,Checking,April,YouTube Revenue,Tuesday
+18/04/2019 0:00,State Farm,75,debit,Auto Insurance,Checking,April,Salary,Thursday
+22/04/2019 0:00,Greek Restaurant,65,debit,Restaurants,Silver Card,April,Business,Monday
+22/04/2019 0:00,Brewing Company,14,debit,Alcohol & Bars,Silver Card,April,Business,Monday
+23/04/2019 0:00,Hardware Store,30,debit,Home Improvement,Silver Card,April,Investments,Tuesday
+25/04/2019 0:00,Internet Service Provider,75,debit,Internet,Checking,April,Adsense,Thursday
+26/04/2019 0:00,Biweekly Paycheck,2000,credit,Paycheck,Checking,April,Rental Income,Friday
+27/04/2019 0:00,American Tavern,15,debit,Restaurants,Silver Card,April,Online Sales,Saturday
+27/04/2019 0:00,Brewing Company,40,debit,Alcohol & Bars,Platinum Card,April,Online Sales,Saturday
+30/04/2019 0:00,BP,39,debit,Gas & Fuel,Platinum Card,April,Tutoring,Tuesday
+01/05/2019 0:00,Amazon,13,debit,Shopping,Platinum Card,May,YouTube Revenue,Wednesday
+02/05/2019 0:00,Mortgage Payment,1100,debit,Mortgage & Rent,Checking,May,Salary,Thursday
+04/05/2019 0:00,Netflix,14,debit,Television,Platinum Card,May,Business,Saturday
+06/05/2019 0:00,Amazon,17,debit,Shopping,Platinum Card,May,Investments,Monday
+07/05/2019 0:00,Amazon,39,debit,Shopping,Platinum Card,May,Adsense,Tuesday
+09/05/2019 0:00,Target,3,debit,Shopping,Platinum Card,May,Rental Income,Thursday
+09/05/2019 0:00,Gas Company,30,debit,Utilities,Checking,May,Rental Income,Thursday
+09/05/2019 0:00,Best Buy,332,debit,Electronics & Software,Platinum Card,May,Rental Income,Thursday
+09/05/2019 0:00,Spotify,11,debit,Music,Platinum Card,May,Rental Income,Thursday
+10/05/2019 0:00,Biweekly Paycheck,2000,credit,Paycheck,Checking,May,Online Sales,Friday
+10/05/2019 0:00,Phone Company,65,debit,Mobile Phone,Checking,May,Online Sales,Friday
+10/05/2019 0:00,Best Buy,21,debit,Electronics & Software,Silver Card,May,Online Sales,Friday
+13/05/2019 0:00,Fancy Restaurant,98,debit,Restaurants,Silver Card,May,Consulting,Monday
+13/05/2019 0:00,Greek Restaurant,23,debit,Restaurants,Silver Card,May,Consulting,Monday
+13/05/2019 0:00,QuikTrip,35,debit,Gas & Fuel,Silver Card,May,Consulting,Monday
+15/05/2019 0:00,Power Company,60,debit,Utilities,Checking,May,YouTube Revenue,Wednesday
+17/05/2019 0:00,City Water Charges,35,debit,Utilities,Checking,May,Salary,Friday
+20/05/2019 0:00,American Tavern,33,debit,Restaurants,Silver Card,May,Freelancing,Monday
+20/05/2019 0:00,State Farm,75,debit,Auto Insurance,Checking,May,Freelancing,Monday
+24/05/2019 0:00,Biweekly Paycheck,2000,credit,Paycheck,Checking,May,Business,Friday
+24/05/2019 0:00,Brunch Restaurant,8,debit,Restaurants,Platinum Card,May,Business,Friday
+24/05/2019 0:00,Hardware Store,28,debit,Home Improvement,Platinum Card,May,Business,Friday
+25/05/2019 0:00,Hardware Store,31,debit,Home Improvement,Platinum Card,May,Investments,Saturday
+25/05/2019 0:00,QuikTrip,37,debit,Gas & Fuel,Platinum Card,May,Investments,Saturday
+27/05/2019 0:00,Mexican Restaurant,34,debit,Restaurants,Platinum Card,May,Adsense,Monday
+30/05/2019 0:00,American Tavern,35,debit,Restaurants,Platinum Card,May,Online Sales,Thursday
+30/05/2019 0:00,Internet Service Provider,75,debit,Internet,Checking,May,Online Sales,Thursday
+01/06/2019 0:00,Amazon,13,debit,Shopping,Platinum Card,June,Consulting,Saturday
+03/06/2019 0:00,Mortgage Payment,1100,debit,Mortgage & Rent,Checking,June,Tutoring,Monday
+03/06/2019 0:00,Starbucks,3,debit,Coffee Shops,Platinum Card,June,Tutoring,Monday
+04/06/2019 0:00,Netflix,14,debit,Television,Platinum Card,June,YouTube Revenue,Tuesday
+04/06/2019 0:00,Barbershop,30,debit,Haircut,Platinum Card,June,YouTube Revenue,Tuesday
+05/06/2019 0:00,Mexican Restaurant,23,debit,Restaurants,Platinum Card,June,Salary,Wednesday
+06/06/2019 0:00,Starbucks,4,debit,Coffee Shops,Platinum Card,June,Freelancing,Thursday
+07/06/2019 0:00,Gas Company,30,debit,Utilities,Checking,June,Business,Friday
+07/06/2019 0:00,Biweekly Paycheck,2000,credit,Paycheck,Checking,June,Business,Friday
+09/06/2019 0:00,Spotify,11,debit,Music,Platinum Card,June,Investments,Sunday
+12/06/2019 0:00,Phone Company,65,debit,Mobile Phone,Checking,June,Adsense,Wednesday
+15/06/2019 0:00,BP,33,debit,Gas & Fuel,Silver Card,June,Consulting,Saturday
+17/06/2019 0:00,Power Company,60,debit,Utilities,Checking,June,Tutoring,Monday
+17/06/2019 0:00,City Water Charges,35,debit,Utilities,Checking,June,Tutoring,Monday
+18/06/2019 0:00,Shell,42,debit,Gas & Fuel,Silver Card,June,YouTube Revenue,Tuesday
+18/06/2019 0:00,Brewing Company,15,debit,Alcohol & Bars,Silver Card,June,YouTube Revenue,Tuesday
+19/06/2019 0:00,State Farm,75,debit,Auto Insurance,Checking,June,Salary,Wednesday
+20/06/2019 0:00,Mike's Construction Co.,9200,debit,Home Improvement,Checking,June,Freelancing,Thursday
+21/06/2019 0:00,Biweekly Paycheck,2000,credit,Paycheck,Checking,June,Business,Friday
+24/06/2019 0:00,Brewing Company,15,debit,Alcohol & Bars,Silver Card,June,Investments,Monday
+28/06/2019 0:00,BP,31,debit,Gas & Fuel,Silver Card,June,Adsense,Friday
+30/06/2019 0:00,Internet Service Provider,75,debit,Internet,Checking,June,Rental Income,Sunday
+01/07/2019 0:00,Thai Restaurant,24,debit,Restaurants,Silver Card,July,Online Sales,Monday
+01/07/2019 0:00,Amazon,13,debit,Shopping,Platinum Card,July,Online Sales,Monday
+01/07/2019 0:00,Hawaiian Grill,25,debit,Restaurants,Silver Card,July,Online Sales,Monday
+01/07/2019 0:00,Starbucks,7,debit,Coffee Shops,Silver Card,July,Online Sales,Monday
+02/07/2019 0:00,Mortgage Payment,1100,debit,Mortgage & Rent,Checking,July,Consulting,Tuesday
+02/07/2019 0:00,Hardware Store,230,debit,Home Improvement,Platinum Card,July,Consulting,Tuesday
+04/07/2019 0:00,Netflix,14,debit,Television,Platinum Card,July,Tutoring,Thursday
+05/07/2019 0:00,Biweekly Paycheck,2250,credit,Paycheck,Checking,July,YouTube Revenue,Friday
+05/07/2019 0:00,Brewing Company,19,debit,Alcohol & Bars,Silver Card,July,YouTube Revenue,Friday
+06/07/2019 0:00,Greek Restaurant,23,debit,Restaurants,Platinum Card,July,Salary,Saturday
+07/07/2019 0:00,Hardware Store,103,debit,Home Improvement,Platinum Card,July,Freelancing,Sunday
+09/07/2019 0:00,Spotify,11,debit,Music,Platinum Card,July,Investments,Tuesday
+10/07/2019 0:00,Gas Company,30,debit,Utilities,Checking,July,Adsense,Wednesday
+10/07/2019 0:00,Phone Company,65,debit,Mobile Phone,Checking,July,Adsense,Wednesday
+16/07/2019 0:00,Power Company,60,debit,Utilities,Checking,July,Online Sales,Tuesday
+16/07/2019 0:00,Amazon,90,debit,Shopping,Platinum Card,July,Online Sales,Tuesday
+17/07/2019 0:00,City Water Charges,35,debit,Utilities,Checking,July,Consulting,Wednesday
+18/07/2019 0:00,Brunch Restaurant,9,debit,Restaurants,Platinum Card,July,Tutoring,Thursday
+18/07/2019 0:00,BP,36,debit,Gas & Fuel,Silver Card,July,Tutoring,Thursday
+18/07/2019 0:00,State Farm,75,debit,Auto Insurance,Checking,July,Tutoring,Thursday
+19/07/2019 0:00,Mexican Restaurant,28,debit,Restaurants,Platinum Card,July,YouTube Revenue,Friday
+19/07/2019 0:00,Biweekly Paycheck,2250,credit,Paycheck,Checking,July,YouTube Revenue,Friday
+22/07/2019 0:00,Thai Restaurant,27,debit,Restaurants,Silver Card,July,Salary,Monday
+24/07/2019 0:00,Starbucks,2,debit,Coffee Shops,Silver Card,July,Business,Wednesday
+27/07/2019 0:00,Barbershop,30,debit,Haircut,Silver Card,July,Investments,Saturday
+28/07/2019 0:00,Hardware Store,44,debit,Home Improvement,Platinum Card,July,Adsense,Sunday
+29/07/2019 0:00,Fancy Restaurant,45,debit,Restaurants,Silver Card,July,Rental Income,Monday
+30/07/2019 0:00,Internet Service Provider,75,debit,Internet,Checking,July,Online Sales,Tuesday
+01/08/2019 0:00,Amazon,13,debit,Shopping,Platinum Card,August,Consulting,Thursday
+02/08/2019 0:00,Biweekly Paycheck,2250,credit,Paycheck,Checking,August,Tutoring,Friday
+02/08/2019 0:00,Mortgage Payment,1100,debit,Mortgage & Rent,Checking,August,Tutoring,Friday
+03/08/2019 0:00,American Tavern,23,debit,Restaurants,Platinum Card,August,YouTube Revenue,Saturday
+03/08/2019 0:00,BP,36,debit,Gas & Fuel,Platinum Card,August,YouTube Revenue,Saturday
+04/08/2019 0:00,Netflix,14,debit,Television,Platinum Card,August,Salary,Sunday
+05/08/2019 0:00,Brewing Company,18,debit,Alcohol & Bars,Silver Card,August,Freelancing,Monday
+06/08/2019 0:00,Hardware Store,125,debit,Home Improvement,Checking,August,Business,Tuesday
+09/08/2019 0:00,Gas Company,30,debit,Utilities,Checking,August,Adsense,Friday
+09/08/2019 0:00,Spotify,11,debit,Music,Platinum Card,August,Adsense,Friday
+12/08/2019 0:00,Thai Restaurant,27,debit,Restaurants,Silver Card,August,Rental Income,Monday
+12/08/2019 0:00,Phone Company,65,debit,Mobile Phone,Checking,August,Rental Income,Monday
+14/08/2019 0:00,Starbucks,3,debit,Coffee Shops,Platinum Card,August,Online Sales,Wednesday
+15/08/2019 0:00,Power Company,60,debit,Utilities,Checking,August,Consulting,Thursday
+16/08/2019 0:00,City Water Charges,35,debit,Utilities,Checking,August,Tutoring,Friday
+16/08/2019 0:00,Biweekly Paycheck,2250,credit,Paycheck,Checking,August,Tutoring,Friday
+17/08/2019 0:00,Barbershop,19,debit,Haircut,Platinum Card,August,YouTube Revenue,Saturday
+17/08/2019 0:00,American Tavern,4,debit,Restaurants,Platinum Card,August,YouTube Revenue,Saturday
+20/08/2019 0:00,Starbucks,3,debit,Coffee Shops,Platinum Card,August,Freelancing,Tuesday
+20/08/2019 0:00,State Farm,75,debit,Auto Insurance,Checking,August,Freelancing,Tuesday
+21/08/2019 0:00,Shell,35,debit,Gas & Fuel,Platinum Card,August,Business,Wednesday
+23/08/2019 0:00,Starbucks,3,debit,Coffee Shops,Platinum Card,August,Investments,Friday
+25/08/2019 0:00,Brunch Restaurant,39,debit,Restaurants,Platinum Card,August,Adsense,Sunday
+26/08/2019 0:00,Hardware Store,67,debit,Home Improvement,Silver Card,August,Rental Income,Monday
+29/08/2019 0:00,Starbucks,3,debit,Coffee Shops,Platinum Card,August,Online Sales,Thursday
+30/08/2019 0:00,Biweekly Paycheck,2250,credit,Paycheck,Checking,August,Consulting,Friday
+30/08/2019 0:00,Internet Service Provider,75,debit,Internet,Checking,August,Consulting,Friday
+30/08/2019 0:00,Starbucks,3,debit,Coffee Shops,Platinum Card,August,Consulting,Friday
+31/08/2019 0:00,BBQ Restaurant,42,debit,Restaurants,Silver Card,August,Tutoring,Saturday
+31/08/2019 0:00,Hardware Store,68,debit,Home Improvement,Platinum Card,August,Tutoring,Saturday
+01/09/2019 0:00,Amazon,13,debit,Shopping,Platinum Card,September,YouTube Revenue,Sunday
+03/09/2019 0:00,Fancy Restaurant,41,debit,Restaurants,Silver Card,September,Salary,Tuesday
+03/09/2019 0:00,Mortgage Payment,1100,debit,Mortgage & Rent,Checking,September,Salary,Tuesday
+04/09/2019 0:00,Netflix,14,debit,Television,Platinum Card,September,Freelancing,Wednesday
+05/09/2019 0:00,Starbucks,4,debit,Coffee Shops,Platinum Card,September,Business,Thursday
+07/09/2019 0:00,Brewing Company,13,debit,Alcohol & Bars,Platinum Card,September,Adsense,Saturday
+08/09/2019 0:00,Brewing Company,19,debit,Alcohol & Bars,Platinum Card,September,Rental Income,Sunday
+09/09/2019 0:00,Spotify,11,debit,Music,Platinum Card,September,Online Sales,Monday
+09/09/2019 0:00,Gas Company,30,debit,Utilities,Checking,September,Online Sales,Monday
+09/09/2019 0:00,Hardware Store,26,debit,Home Improvement,Silver Card,September,Online Sales,Monday
+09/09/2019 0:00,Shell,29,debit,Gas & Fuel,Platinum Card,September,Online Sales,Monday
+11/09/2019 0:00,Phone Company,65,debit,Mobile Phone,Checking,September,Consulting,Wednesday
+13/09/2019 0:00,Biweekly Paycheck,2250,credit,Paycheck,Checking,September,YouTube Revenue,Friday
+13/09/2019 0:00,Starbucks,3,debit,Coffee Shops,Platinum Card,September,YouTube Revenue,Friday
+15/09/2019 0:00,Amazon,48,debit,Shopping,Platinum Card,September,Freelancing,Sunday
+16/09/2019 0:00,City Water Charges,35,debit,Utilities,Checking,September,Business,Monday
+17/09/2019 0:00,Power Company,60,debit,Utilities,Checking,September,Investments,Tuesday
+18/09/2019 0:00,State Farm,75,debit,Auto Insurance,Checking,September,Adsense,Wednesday
+19/09/2019 0:00,Starbucks,3,debit,Coffee Shops,Platinum Card,September,Rental Income,Thursday
+19/09/2019 0:00,Brewing Company,41,debit,Alcohol & Bars,Platinum Card,September,Rental Income,Thursday
+22/09/2019 0:00,Seafood Restaurant,131,debit,Restaurants,Platinum Card,September,Consulting,Sunday
+23/09/2019 0:00,Amazon,25,debit,Shopping,Platinum Card,September,Tutoring,Monday
+27/09/2019 0:00,Biweekly Paycheck,2250,credit,Paycheck,Checking,September,YouTube Revenue,Friday
+28/09/2019 0:00,Sheetz,4,debit,Gas & Fuel,Platinum Card,September,Salary,Saturday
+28/09/2019 0:00,BP,33,debit,Gas & Fuel,Platinum Card,September,Salary,Saturday
+30/09/2019 0:00,Internet Service Provider,75,debit,Internet,Checking,September,Freelancing,Monday
+30/09/2019 0:00,Starbucks,2,debit,Coffee Shops,Platinum Card,September,Freelancing,Monday
