@@ -1,4 +1,4 @@
-# Personal-Expenses-Project
+# Personal-Expenses-Project (Excel)
 
 ## 📊 Dashboard Overview
 
